@@ -58,6 +58,7 @@ https://www.biorxiv.org/content/biorxiv/early/2018/09/05/407007.full.pdf
 - E. Kim, D. Hannan, G. Kenyon. Deep Sparse Coding for Invariant Multimodal Halle Berry Neurons. *CVPR* (2018). ([arxiv](https://arxiv.org/abs/1711.07998))
 
 ## 神経科学に基づいたアーキテクチャ
+ニューラルネットの中で神経科学の知見を取り入れたもの。
 
 ###　全般
 - D. Hassabis, D. Kumaran, C. Summerfield, M. Botvinick. "Neuroscience-Inspired Artificial Intelligence". *Neuron* **95**(2), 245-258 (2017).
