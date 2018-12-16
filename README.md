@@ -60,7 +60,7 @@ https://www.biorxiv.org/content/biorxiv/early/2018/09/05/407007.full.pdf
 ## 神経科学に基づいたアーキテクチャ
 ニューラルネットの中で神経科学の知見を取り入れたもの。
 
-###　全般
+### 全般
 - D. Hassabis, D. Kumaran, C. Summerfield, M. Botvinick. "Neuroscience-Inspired Artificial Intelligence". *Neuron* **95**(2), 245-258 (2017).
 ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627317305093))
 
