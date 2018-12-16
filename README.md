@@ -41,7 +41,7 @@ https://www.biorxiv.org/content/biorxiv/early/2018/05/02/133694.full.pdf
 - A. Banino, et al. "Vector-based navigation using grid-like representations in artificial agents". *Nat.* **557**(7705), 429–433 (2018). ([pdf](https://deepmind.com/documents/201/Vector-based%20Navigation%20using%20Grid-like%20Representations%20in%20Artificial%20Agents.pdf))
 
 ### おばあさん細胞
-- E. Kim, D. Hannan, G. Kenyon. Deep Sparse Coding for Invariant Multimodal Halle Berry Neurons. *CVPR.* (2018). ([arxiv](https://arxiv.org/abs/1711.07998))
+- E. Kim, D. Hannan, G. Kenyon. "Deep Sparse Coding for Invariant Multimodal Halle Berry Neurons". *CVPR.* (2018). ([arxiv](https://arxiv.org/abs/1711.07998))
 
 ## 神経科学に基づいたアーキテクチャ
 ニューラルネットワークのアーキテクチャの中で神経科学の知見を取り入れたもの。強化学習系は思いっきり見落としてる気がします。
