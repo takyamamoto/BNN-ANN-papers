@@ -5,16 +5,9 @@
 ほとんど総説。
 
 ### 全般
-- A.H. Marblestone, G. Wayne, K.P. Kording. Toward an integration of deep learning and neuroscience. 2016. *Front. Comput. Neurosci.*, 10, p.94
-https://www.frontiersin.org/articles/10.3389/fncom.2016.00094/full
-
-(cf.)Artificial Neural Networks as Models of Neural Information Processing
-https://www.frontiersin.org/research-topics/4817/artificial-neural-networks-as-models-of-neural-information-processing
-
-- D. Cox, T. Dean. Neural networks and neuroscience-inspired computer vision. Curr Biol. 2014. doi: 10.1016/j.cub.2014.08.026.
-
-### 計算神経科学の中のニューラルネットワーク
-計算神経科学の総説の中でニューラルネットワークに触れているもの。
+- D. Cox, T. Dean. "Neural networks and neuroscience-inspired computer vision". *Curr. Biol.* **24**(18) 921-929 (2014). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0960982214010392?via%3Dihub))
+- A. Marblestone, G. Wayne, K. Kording. "Toward an integration of deep learning and neuroscience". 2016. ([arxiv](https://arxiv.org/abs/1606.03813))
+- D. Silva, P. Cruz, A. Gutierrez. "Are the long-short term memory and convolution neural net biological system?". *KICS* **4**(2), 100-106 (2018). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S2405959518300249))
 
 ### ニューラルネットワークの解析手法
 ニューラルネットワークの神経表現を理解するための手法。Saliency mapとかは触れません。
@@ -22,9 +15,6 @@ https://www.frontiersin.org/research-topics/4817/artificial-neural-networks-as-m
 
 #### SVCCA
 - M. Raghu, J. Gilmer, J. Yosinski, J. Sohl-Dickstein. "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability". *NIPS* (2017). ([arxiv](https://arxiv.org/abs/1706.05806))
-
-### その他
-- D. Silva, P. Cruz, A. Gutierrez. Are the long-short term memory and convolution neural net biological system?. 2018. doi: 10.1016/j.icte.2018.04.001
 
 ## ニューラルネットによる脳の神経表現の再現
 脳の神経表現の理解は難しい。ニューラルネットワークに特定のタスクを学習（特定の損失関数に対して最適化）させると、脳の神経表現と同じ表現を獲得する場合がある。このとき、間接的に脳の神経表現の目的を知ることができる(Whyの解決手法)。
@@ -51,14 +41,14 @@ https://www.biorxiv.org/content/biorxiv/early/2018/09/05/407007.full.pdf
 - D. Sussillo, M. Churchland, M. Kaufman, K. Shenoy. "A neural network that finds a naturalistic solution for the production of muscle activity". *Nat. Neurosci.* **18**(7), 1025–1033 (2015). ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26075643))
 
 ### 場所受容野
-- C. Cueva, X. Wei. "Emergence of grid-like representations by training recurrent neural networks to perform spatial localization". ICLR (2018). ([arxiv](https://arxiv.org/abs/1803.07770))
-- A. Banino, et al. "Vector-based navigation using grid-like representations in artificial agents", *Nat.* **557**(7705), 429–433 (2018). ([pdf](https://deepmind.com/documents/201/Vector-based%20Navigation%20using%20Grid-like%20Representations%20in%20Artificial%20Agents.pdf))
+- C. Cueva, X. Wei. "Emergence of grid-like representations by training recurrent neural networks to perform spatial localization". *ICLR* (2018). ([arxiv](https://arxiv.org/abs/1803.07770))
+- A. Banino, et al. "Vector-based navigation using grid-like representations in artificial agents". *Nat.* **557**(7705), 429–433 (2018). ([pdf](https://deepmind.com/documents/201/Vector-based%20Navigation%20using%20Grid-like%20Representations%20in%20Artificial%20Agents.pdf))
 
 ### おばあさん細胞
 - E. Kim, D. Hannan, G. Kenyon. Deep Sparse Coding for Invariant Multimodal Halle Berry Neurons. *CVPR* (2018). ([arxiv](https://arxiv.org/abs/1711.07998))
 
 ## 神経科学に基づいたアーキテクチャ
-ニューラルネットの中で神経科学の知見を取り入れたもの。
+ニューラルネットワークのアーキテクチャの中で神経科学の知見を取り入れたもの。
 
 ### 全般
 - D. Hassabis, D. Kumaran, C. Summerfield, M. Botvinick. "Neuroscience-Inspired Artificial Intelligence". *Neuron* **95**(2), 245-258 (2017).
@@ -88,14 +78,14 @@ https://www.biorxiv.org/content/biorxiv/early/2018/04/10/268375.full.pdf
 https://www.biorxiv.org/content/biorxiv/early/2018/08/29/390435.full.pdf
 
 
-- N. Ke, A. Goyal, O. Bilaniuk, J. Binas, M. Mozer, C. Pal, Y. Bengio. "Sparse Attentive Backtracking: Temporal CreditAssignment Through Reminding". 2018. NIPS. ([arxiv](https://arxiv.org/abs/1809.03702))
-- S. Bartunov, A. Santoro, B. Richards, L. Marris, G. Hinton, T. Lillicrap. "Assessing the Scalability of Biologically-Motivated Deep Learning Algorithms and Architectures". 2018.  NIPS. ([arxiv](https://arxiv.org/abs/1807.04587))
-- J. Sacramento, R. P. Costa, Y. Bengio, W. Senn. "Dendritic cortical microcircuits approximate the backpropagation algorithm". 2018. NIPS. ([arxiv](https://arxiv.org/abs/1810.11393))
+- N. Ke, A. Goyal, O. Bilaniuk, J. Binas, M. Mozer, C. Pal, Y. Bengio. "Sparse Attentive Backtracking: Temporal CreditAssignment Through Reminding". *NIPS* (2018). ([arxiv](https://arxiv.org/abs/1809.03702))
+- S. Bartunov, A. Santoro, B. Richards, L. Marris, G. Hinton, T. Lillicrap. "Assessing the Scalability of Biologically-Motivated Deep Learning Algorithms and Architectures". *NIPS* (2018). ([arxiv](https://arxiv.org/abs/1807.04587))
+- J. Sacramento, R. P. Costa, Y. Bengio, W. Senn. "Dendritic cortical microcircuits approximate the backpropagation algorithm". *NIPS* (2018). ([arxiv](https://arxiv.org/abs/1810.11393))
 
 ### ニューラルネットワークと脳の発達
 「発達」というのは技術的発達ではなく、幼児の脳が如何にして成人と同じような脳機能を獲得するか、ということの発達。
-- A. M. Saxe, J. L. McClelland, S. Ganguli. "A mathematical theory of semantic development in deep neural networks". 2018. ([arxiv](https://arxiv.org/abs/1810.10531))
-- J. Shen, M. D. Petkova, F. Liu, C. Tang. "Toward deciphering developmental patterning with deep neural network". 2018. ([bioRxiv](https://www.biorxiv.org/content/early/2018/08/09/374439))
+- A. M. Saxe, J. L. McClelland, S. Ganguli. "A mathematical theory of semantic development in deep neural networks". (2018). ([arxiv](https://arxiv.org/abs/1810.10531))
+- J. Shen, M. D. Petkova, F. Liu, C. Tang. "Toward deciphering developmental patterning with deep neural network". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/08/09/374439))
 
 ## その他
 https://arxiv.org/abs/1502.04156
