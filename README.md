@@ -2,6 +2,7 @@
 ニューラルネットワークの論文のなかで計算神経科学と関係しているもの（の中で個人的に気になったもの）を集めました。重要なのに記載できてない論文がある場合はIssueからお願いします。
 
 ## ニューラルネットワークと計算神経科学
+ほとんど総説。
 
 ### 全般
 - A.H. Marblestone, G. Wayne, K.P. Kording. Toward an integration of deep learning and neuroscience. 2016. *Front. Comput. Neurosci.*, 10, p.94
