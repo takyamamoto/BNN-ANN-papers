@@ -30,6 +30,7 @@ N. Kriegeskorte, P. Douglas. "Cognitive computational neuroscience". *Nat. Neuro
 
 ### 視覚
 ニューラルネットワークが一番成功したといってもいいのが視覚。そのため論文の数も多い。
+- A. Krizhevsky, I. Sutskever, G. Hinton. "ImageNet classification with deep convolutional neural networks". *NIPS* (2012). ([pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf))
 - D. Yamins, et al. "Performance-optimized hierarchical models predict neural responses in higher visual cortex". *PNAS.* **111**(23) 8619-8624 (2014). ([PNAS](https://www.pnas.org/content/111/23/8619))
 - S. Khaligh-Razavi, N. Kriegeskorte. "Deep supervised, but not unsupervised, models may explain IT cortical representation". *PLoS Comput. Biol*. **10**(11), (2014). ([PLOS](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003915))
 - I. Kuzovkin, et al. "Activations of Deep Convolutional Neural Network are Aligned with Gamma Band Activity of Human Visual Cortex". *Commun. Biol.* **1** (2018). ([Commun. Biol.](https://www.nature.com/articles/s42003-018-0110-y))
@@ -62,7 +63,7 @@ N. Kriegeskorte, P. Douglas. "Cognitive computational neuroscience". *Nat. Neuro
 - E. Watanabe, A. Kitaoka, K. Sakamoto, M. Yasugi, K. Tanaka. "Illusory Motion Reproduced by Deep Neural Networks Trained for Prediction". *Front. Psychol.* (2018). ([Front. Psychol.](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00345/full))
 
 ### subLSTM
-R. Costa, Y. Assael, B. Shillingford, N. Freitas, T. Vogels. "Cortical microcircuits as gated-recurrent neural networks". *NIPS.* (2017). ([arxiv](https://arxiv.org/abs/1711.02448))
+- R. Costa, Y. Assael, B. Shillingford, N. Freitas, T. Vogels. "Cortical microcircuits as gated-recurrent neural networks". *NIPS.* (2017). ([arxiv](https://arxiv.org/abs/1711.02448))
 
 ## 学習と発達
 
