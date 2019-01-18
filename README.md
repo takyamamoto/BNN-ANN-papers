@@ -38,6 +38,8 @@ N. Kriegeskorte, P. Douglas. "Cognitive computational neuroscience". *Nat. Neuro
 - E. Kim, D. Hannan, G. Kenyon. "Deep Sparse Coding for Invariant Multimodal Halle Berry Neurons". *CVPR.* (2018). ([arxiv](https://arxiv.org/abs/1711.07998))
 - S. Ocko, J. Lindsey, S. Ganguli, S. Deny. "The emergence of multiple retinal cell types through efficient coding of natural movies". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/10/31/458737))
 - Q. Yan, et al. "Revealing Fine Structures of the Retinal Receptive Field by Deep Learning Networks". (2018). ([arxiv](https://arxiv.org/abs/1811.02290))
+- J. Lindsey, S. Ocko, S. Ganguli, S. Deny. "The effects of neural resource constraints on early visual representations". (https://openreview.net/forum?id=S1xq3oR5tQ)
+- A. Nayebi, D. Bear, J. Kubilius, K. Kar, S. Ganguli, D. Sussillo, J. DiCarlo, D. Yamins. "Task-Driven Convolutional Recurrent Models of the Visual System". (2018). ([arxiv](https://arxiv.org/abs/1807.00053))
 
 ### 運動野
 - D. Sussillo, M. Churchland, M. Kaufman, K. Shenoy. "A neural network that finds a naturalistic solution for the production of muscle activity". *Nat. Neurosci.* **18**(7), 1025–1033 (2015). ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26075643))
