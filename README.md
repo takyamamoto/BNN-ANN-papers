@@ -38,7 +38,7 @@
 - S. Ocko, J. Lindsey, S. Ganguli, S. Deny. "The emergence of multiple retinal cell types through efficient coding of natural movies". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/10/31/458737))
 - Q. Yan, et al. "Revealing Fine Structures of the Retinal Receptive Field by Deep Learning Networks". (2018). ([arxiv](https://arxiv.org/abs/1811.02290))
 - A. Nayebi, D. Bear, J. Kubilius, K. Kar, S. Ganguli, D. Sussillo, J. DiCarlo, D. Yamins. "Task-Driven Convolutional Recurrent Models of the Visual System". (2018). ([arxiv](https://arxiv.org/abs/1807.00053))
-- J. Lindsey, S. Ocko, S. Ganguli, S. Deny. "A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs". ([arxiv](https://arxiv.org/abs/1901.00945))
+- J. Lindsey, S. Ocko, S. Ganguli, S. Deny. "A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs". (2019). ([arxiv](https://arxiv.org/abs/1901.00945))
 
 ### 運動野 (Motor cortex)
 - D. Sussillo, M. Churchland, M. Kaufman, K. Shenoy. "A neural network that finds a naturalistic solution for the production of muscle activity". *Nat. Neurosci.* **18**(7), 1025–1033 (2015). ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26075643))
