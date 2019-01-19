@@ -47,6 +47,9 @@
 - A. Nayebi, D. Bear, J. Kubilius, K. Kar, S. Ganguli, D. Sussillo, J. DiCarlo, D. Yamins. "Task-Driven Convolutional Recurrent Models of the Visual System". (2018). ([arxiv](https://arxiv.org/abs/1807.00053))
 - J. Lindsey, S. Ocko, S. Ganguli, S. Deny. "A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs". (2019). ([arxiv](https://arxiv.org/abs/1901.00945))
 
+#### ResNetの考察
+- Q. Liao, T. Poggio. "Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex". ([arxiv](https://arxiv.org/abs/1604.03640))
+
 ### 運動野 (Motor cortex)
 - D. Sussillo, M. Churchland, M. Kaufman, K. Shenoy. "A neural network that finds a naturalistic solution for the production of muscle activity". *Nat. Neurosci.* **18**(7), 1025–1033 (2015). ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26075643))
 
@@ -59,6 +62,7 @@
 - G.R. Yang, M.R. Joglekar, H.F. Song, W.T. Newsome, X.J. Wang. "Task representations in neural networks trained to perform many cognitive tasks". *Nat. Neurosci.* (2019). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-018-0310-2)) ([GitHub](https://github.com/gyyang/multitask))
 
 ### 時間認知 (Time perception)
+- N.F. Hardy, V. Goudar, J.L. Romero-Sosa, D.V. Buonomano. "A model of temporal scaling correctly predicts that motor timing improves with speed". *Nat. Commun.* **9** (2018). ([Nat. Commun.](https://www.nature.com/articles/s41467-018-07161-6))
 - W. Roseboom, Z. Fountas, K. Nikiforou, D. Bhowmik, M. Shanahan, A. K. Seth. "Activity in perceptual classification networks as a basis for human subjective time perception". *Nat. Commun.* **10** (2019). ([Nat. Commun.](https://www.nature.com/articles/s41467-018-08194-7))
 
 ## 神経科学に基づいたアーキテクチャ (Neural network architecture based on neuroscience)
