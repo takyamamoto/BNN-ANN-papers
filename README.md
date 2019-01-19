@@ -51,7 +51,7 @@
 - A. Banino, et al. "Vector-based navigation using grid-like representations in artificial agents". *Nat.* **557**(7705), 429–433 (2018). ([pdf](https://deepmind.com/documents/201/Vector-based%20Navigation%20using%20Grid-like%20Representations%20in%20Artificial%20Agents.pdf))
 
 ### 認知タスク (Cognitive task)
--  H.F. Song, G.R. Yang, X.J. Wang. "Reward-based training of recurrent neural networks for cognitive and value-based tasks". *eLife*. **6**, (2017) ([eLife](https://elifesciences.org/articles/21492))
+-  H.F. Song, G.R. Yang, X.J. Wang. "Reward-based training of recurrent neural networks for cognitive and value-based tasks". *eLife*. **6** (2017). ([eLife](https://elifesciences.org/articles/21492))
 - G.R. Yang, M.R. Joglekar, H.F. Song, W.T. Newsome, X.J. Wang. "Task representations in neural networks trained to perform many cognitive tasks". *Nat. Neurosci.* (2019). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-018-0310-2)) ([GitHub](https://github.com/gyyang/multitask))
 
 ### 時間認知 (Time perception)
