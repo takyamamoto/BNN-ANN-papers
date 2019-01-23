@@ -38,7 +38,7 @@
   - (cf.) I. Goodfellow, Y. Bengio, A. Courville. "[Deep Learning](https://www.deeplearningbook.org/)". MIT Press. (2016) : Chapter 9.10 "The Neuroscientiﬁc Basis for ConvolutionalNetworks"
 - D. Yamins, et al. "Performance-optimized hierarchical models predict neural responses in higher visual cortex". *PNAS.* **111**(23) 8619-8624 (2014). ([PNAS](https://www.pnas.org/content/111/23/8619))
 - S. Khaligh-Razavi, N. Kriegeskorte. "Deep supervised, but not unsupervised, models may explain IT cortical representation". *PLoS Comput. Biol*. **10**(11), (2014). ([PLOS](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003915))
-- K.M. Jozwik, N. Kriegeskorte, K.R. Storrs, M. Mur. "Deep Convolutional Neural Networks Outperform Feature-Based But Not Categorical Models in Explaining Object Similarity Judgments". *Front. Psychol*. (2017) ([])
+- K.M. Jozwik, N. Kriegeskorte, K.R. Storrs, M. Mur. "Deep Convolutional Neural Networks Outperform Feature-Based But Not Categorical Models in Explaining Object Similarity Judgments". *Front. Psychol*. (2017) ([Front. Psychol](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01726/full))
 - I. Kuzovkin, et al. "Activations of Deep Convolutional Neural Network are Aligned with Gamma Band Activity of Human Visual Cortex". *Commun. Biol.* **1** (2018). ([Commun. Biol.](https://www.nature.com/articles/s42003-018-0110-y))
 - M. Schrimpf, et al. "Brain-Score: Which Artificial Neural Network for Object Recognition is most Brain-Like?". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/09/05/407007))
 - E. Kim, D. Hannan, G. Kenyon. "Deep Sparse Coding for Invariant Multimodal Halle Berry Neurons". *CVPR.* (2018). ([arXiv](https://arXiv.org/abs/1711.07998))
@@ -86,6 +86,7 @@
 ニューラルネットワークの強力な学習アルゴリズムである誤差逆伝搬法(Back propagation)は生物学的に妥当である(biological plausible)とは言えない。そこで、生体内でも可能と言えそうな学習方法が考案されている。
 - Y. Bengio, D. Lee, J. Bornschein, T. Mesnard, Z. Lin. "Towards Biologically Plausible Deep Learning". (2015). ([arXiv](https://arXiv.org/abs/1502.04156))
 - T. Lillicrap, D. Cownden, D. Tweed, C. Akerman. "Random synaptic feedback weights support error backpropagation for deep learning". *Nat. Commun.* **7** (2016). ([Nat. Commun.](https://www.nature.com/articles/ncomms13276))
+- M. Jaderberg, et al. "Decoupled Neural Interfaces using Synthetic Gradients" (2016). ([arXiv](https://arxiv.org/abs/1608.05343))
 - B. Scellier, Y. Bengio. "Equilibrium Propagation: Bridging the Gap Between Energy-Based Models and Backpropagation". *Front. Comput. Neurosci.* **11**(24), (2017). ([arXiv](https://arXiv.org/abs/1602.05179))
 - N. Ke, A. Goyal, O. Bilaniuk, J. Binas, M. Mozer, C. Pal, Y. Bengio. "Sparse Attentive Backtracking: Temporal CreditAssignment Through Reminding". *NIPS.* (2018). ([arXiv](https://arXiv.org/abs/1809.03702))
 - S. Bartunov, A. Santoro, B. Richards, L. Marris, G. Hinton, T. Lillicrap. "Assessing the Scalability of Biologically-Motivated Deep Learning Algorithms and Architectures". *NIPS.* (2018). ([arXiv](https://arXiv.org/abs/1807.04587))
