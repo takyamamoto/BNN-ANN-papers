@@ -1,14 +1,14 @@
 # Papers : Biological and Artificial Neural Networks
 ニューラルネットワークの論文のなかで計算神経科学と関係しているもの（の中で個人的に気になったもの）を集めました。重要なのに記載できてない論文がある場合や内容に誤りがある場合、解説を追加していただける場合はIssue または Pull reqからお願いします。
 
-- [ニューラルネットワークと計算神経科学 (Neural Networks and computational neuroscience)](#ニューラルネットワークと計算神経科学)
+- [ニューラルネットワークと計算神経科学 (Neural Networks and computational neuroscience)](##ニューラルネットワークと計算神経科学)
   - ([解説](https://github.com/takyamamoto/BNN-ANN-papers/blob/master/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A9%E3%83%AB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A8%E8%A8%88%E7%AE%97%E7%A5%9E%E7%B5%8C%E7%A7%91%E5%AD%A6.md))
-- [ニューラルネットワークによる神経表現の再現 (Emergence of neural representation in artificial neural networks)](#ニューラルネットによる神経表現の再現)
+- [ニューラルネットワークによる神経表現の再現 (Emergence of neural representation in artificial neural networks)](##ニューラルネットによる神経表現の再現)
   - (解説 [[視覚](https://github.com/takyamamoto/BNN-ANN-papers/blob/master/%E8%84%B3%E3%81%AE%E7%A5%9E%E7%B5%8C%E8%A1%A8%E7%8F%BE%E3%81%AE%E5%86%8D%E7%8F%BE_%E8%A6%96%E8%A6%9A.md)] / [[視覚以外](https://github.com/takyamamoto/BNN-ANN-papers/blob/master/%E8%84%B3%E3%81%AE%E7%A5%9E%E7%B5%8C%E8%A1%A8%E7%8F%BE%E3%81%AE%E5%86%8D%E7%8F%BE_%E8%A6%96%E8%A6%9A%E4%BB%A5%E5%A4%96.md)])
-- [神経科学に基づいたアーキテクチャ (Neural network architecture based on neuroscience)](#神経科学に基づいたアーキテクチャ)
+- [神経科学に基づいたアーキテクチャ (Neural network architecture based on neuroscience)](##神経科学に基づいたアーキテクチャ)
   - ([解説](https://github.com/takyamamoto/BNN-ANN-papers/blob/master/%E7%A5%9E%E7%B5%8C%E7%A7%91%E5%AD%A6%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%84%E3%81%9F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3.md))
-- [学習と発達 (Learning and development)](#学習と発達)
-- [Brain-computer interface](#Brain-computer interface)
+- [学習と発達 (Learning and development)](##学習と発達)
+- [Brain-computer interface](##Brain-computer interface)
 
 ## ニューラルネットワークと計算神経科学 (Neural networks and computational neuroscience)
 ### 総説 (Survey)
