@@ -8,6 +8,7 @@
 - [神経科学に基づいたアーキテクチャ (Neural network architecture based on neuroscience)](#神経科学に基づいたアーキテクチャ)
   - ([解説](https://github.com/takyamamoto/BNN-ANN-papers/blob/master/%E7%A5%9E%E7%B5%8C%E7%A7%91%E5%AD%A6%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%84%E3%81%9F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3.md))
 - [学習と発達 (Learning and development)](#学習と発達)
+- [Brain-computer interface](#Brain-computer interface)
 
 ## ニューラルネットワークと計算神経科学 (Neural networks and computational neuroscience)
 ### 総説 (Survey)
@@ -99,3 +100,8 @@
 ### ニューラルネットワークと脳の発達 (Development of neural networks and brains)
 - A. M. Saxe, J. L. McClelland, S. Ganguli. "A mathematical theory of semantic development in deep neural networks". (2018). ([arXiv](https://arXiv.org/abs/1810.10531))
 - J. Shen, M. D. Petkova, F. Liu, C. Tang. "Toward deciphering developmental patterning with deep neural network". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/08/09/374439))
+
+## Brain-computer interface
+最近追加したので全然まとまってないです。
+- R. Rao. "Towards Neural Co-Processors for the Brain: Combining Decoding and Encoding in Brain-Computer Interfaces". (2018). ([arXiv](https://arxiv.org/abs/1811.11876))
+- G. Shen, T. Horikawa, K. Majima, Y. Kamitani. "Deep image reconstruction from human brain activity". *PLOS* (2019). ([PLOS](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006633))
