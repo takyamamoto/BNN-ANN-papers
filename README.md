@@ -1,5 +1,5 @@
 # Papers : Biological and Artificial Neural Networks
-ニューラルネットワークの論文のなかで計算神経科学と関係しているもの（の中で個人的に気になったもの）を集めました。重要なのに記載できてない論文がある場合や内容に誤りがある場合、解説を追加していただける場合はIssue または Pull reqからお願いします。
+ニューラルネットワークの論文のなかで計算神経科学と関係しているもの（の中で **個人的に** 気になったもの）を集めました。重要なのに記載できてない論文がある場合や内容に誤りがある場合、解説を追加していただける場合はIssue または Pull reqからお願いします。
 
 <!--
 - [ニューラルネットワークと計算神経科学 (Neural Networks and computational neuroscience)](##ニューラルネットワークと計算神経科学)
@@ -41,7 +41,9 @@
   - (cf.) I. Goodfellow, Y. Bengio, A. Courville. "[Deep Learning](https://www.deeplearningbook.org/)". MIT Press. (2016) : Chapter 9.10 "The Neuroscientiﬁc Basis for ConvolutionalNetworks"
 - D. Yamins, et al. "Performance-optimized hierarchical models predict neural responses in higher visual cortex". *PNAS.* **111**(23) 8619-8624 (2014). ([PNAS](https://www.pnas.org/content/111/23/8619))
 - S. Khaligh-Razavi, N. Kriegeskorte. "Deep supervised, but not unsupervised, models may explain IT cortical representation". *PLoS Comput. Biol*. **10**(11), (2014). ([PLOS](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003915))
+- U. Güçlü, M.A.J. van Gerven. "Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Ventral Stream". *J. Neurosci.* **35**(27), (2015). ([J. Neurosci.](http://www.jneurosci.org/content/35/27/10005))
 - K.M. Jozwik, N. Kriegeskorte, K.R. Storrs, M. Mur. "Deep Convolutional Neural Networks Outperform Feature-Based But Not Categorical Models in Explaining Object Similarity Judgments". *Front. Psychol*. (2017). ([Front. Psychol](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01726/full))
+- C. J. Spoerer, P. McClure, N. Kriegeskorte. "Recurrent Convolutional Neural Networks: A Better Model of Biological Object Recognition". *Front. Psychol.* (2017). ([Front. Psychol](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01551/full))
 - I. Kuzovkin, et al. "Activations of Deep Convolutional Neural Network are Aligned with Gamma Band Activity of Human Visual Cortex". *Commun. Biol.* **1** (2018). ([Commun. Biol.](https://www.nature.com/articles/s42003-018-0110-y))
 - M. Schrimpf, et al. "Brain-Score: Which Artificial Neural Network for Object Recognition is most Brain-Like?". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/09/05/407007))
 - E. Kim, D. Hannan, G. Kenyon. "Deep Sparse Coding for Invariant Multimodal Halle Berry Neurons". *CVPR.* (2018). ([arXiv](https://arXiv.org/abs/1711.07998))
@@ -49,6 +51,10 @@
 - Q. Yan, et al. "Revealing Fine Structures of the Retinal Receptive Field by Deep Learning Networks". (2018). ([arXiv](https://arXiv.org/abs/1811.02290))
 - A. Nayebi, D. Bear, J. Kubilius, K. Kar, S. Ganguli, D. Sussillo, J. DiCarlo, D. Yamins. "Task-Driven Convolutional Recurrent Models of the Visual System". (2018). ([arXiv](https://arXiv.org/abs/1807.00053))
 - J. Lindsey, S. Ocko, S. Ganguli, S. Deny. "A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs". (2019). ([arXiv](https://arXiv.org/abs/1901.00945))
+
+#### Recursive Cortical Network (RCN)
+This is non NN model.
+- D. George, et al. "A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs". *Science* (2017). ([Science](http://science.sciencemag.org/content/358/6368/eaag2612.full)), ([GitHub](https://github.com/vicariousinc/science_rcn))
 
 #### ResNetの考察
 - Q. Liao, T. Poggio. "Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex". ([arXiv](https://arXiv.org/abs/1604.03640))
@@ -69,7 +75,7 @@
 - W. Roseboom, Z. Fountas, K. Nikiforou, D. Bhowmik, M. Shanahan, A. K. Seth. "Activity in perceptual classification networks as a basis for human subjective time perception". *Nat. Commun.* **10** (2019). ([Nat. Commun.](https://www.nature.com/articles/s41467-018-08194-7))
 
 ### 短期記憶課題 (short-term memory task)
-- K. Rajan, C.D.Harvey, D.W.Tank. "Recurrent Network Models of Sequence Generation and Memory". *Neuron.* **90**(1), 128-142 (2016). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627316001021?via%3Dihub#fig1)) 
+- K. Rajan, C.D.Harvey, D.W.Tank. "Recurrent Network Models of Sequence Generation and Memory". *Neuron.* **90**(1), 128-142 (2016). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627316001021?via%3Dihub#fig1))
 - A.E. Orhan, W.J. Ma. "Task representations in neural networks trained to perform many cognitive tasks". *Nat. Neurosci.* (2019). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-018-0314-y)) ([GitHub](https://github.com/eminorhan/recurrent-memory))
 
 ## 神経科学に基づいたアーキテクチャ (Neural network architecture based on neuroscience)
@@ -86,6 +92,10 @@
 
 ### subLSTM
 - R. Costa, Y. Assael, B. Shillingford, N. Freitas, T. Vogels. "Cortical microcircuits as gated-recurrent neural networks". *NIPS.* (2017). ([arXiv](https://arXiv.org/abs/1711.02448))
+
+## 強化学習
+（大事な分野なのに最近の研究を追えていません…。)  
+- J. X. Wang, et al. "Prefrontal cortex as a meta-reinforcement learning system". *Nat. Neurosci.* (2018). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-018-0147-8)), ([bioRxiv](https://www.biorxiv.org/content/10.1101/295964v2)),  ([blog](https://deepmind.com/blog/prefrontal-cortex-meta-reinforcement-learning-system/))
 
 ## 学習と発達 (Learning and development)
 
@@ -110,9 +120,7 @@
 - A.M. Saxe, J. L. McClelland, S. Ganguli. "A mathematical theory of semantic development in deep neural networks". (2018). ([arXiv](https://arXiv.org/abs/1810.10531))
 - J. Shen, M. D. Petkova, F. Liu, C. Tang. "Toward deciphering developmental patterning with deep neural network". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/08/09/374439))
 
-<!--
-## Brain-computer interface
-最近追加したので全然まとまってないです。
+## Brain Decoding & Brain-machine interface
+- E. Matsuo, I. Kobayashi, S. Nishimoto, S. Nishida,H. Asoh. "Generating Natural Language Descriptions for Semantic Representations of Human Brain Activity". *ACL SRW.* (2016). ([ACL Anthology](https://aclanthology.info/papers/P16-3004/p16-3004))
 - R. Rao. "Towards Neural Co-Processors for the Brain: Combining Decoding and Encoding in Brain-Computer Interfaces". (2018). ([arXiv](https://arxiv.org/abs/1811.11876))
 - G. Shen, T. Horikawa, K. Majima, Y. Kamitani. "Deep image reconstruction from human brain activity". *PLOS* (2019). ([PLOS](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006633))
--->
