@@ -61,6 +61,10 @@ This is non NN model.
 #### ResNetの考察
 - Q. Liao, T. Poggio. "Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex". ([arXiv](https://arXiv.org/abs/1604.03640))
 
+### 聴覚野 (Auditory cortex)
+- U. Güçlü, J. Thielen, M. Hanke, M. van Gerven. "Brains on Beats". *NIPS* (2016) ([arXiv](https://arxiv.org/abs/1606.02627))
+- A.J.E. Kell,D.L.K. Yamins,E.N. Shook, S.V. Norman-Haignere, J.H.McDermott. "A Task-Optimized Neural Network Replicates Human Auditory Behavior, Predicts Brain Responses, and Reveals a Cortical Processing Hierarchy". *Neuron* **98**(3), (2018)  ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627318302502?via%3Dihub))
+
 ### 運動野 (Motor cortex)
 - D. Sussillo, M. Churchland, M. Kaufman, K. Shenoy. "A neural network that finds a naturalistic solution for the production of muscle activity". *Nat. Neurosci.* **18**(7), 1025–1033 (2015). ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26075643))
 
@@ -95,7 +99,7 @@ This is non NN model.
 ### subLSTM
 - R. Costa, Y. Assael, B. Shillingford, N. Freitas, T. Vogels. "Cortical microcircuits as gated-recurrent neural networks". *NIPS.* (2017). ([arXiv](https://arXiv.org/abs/1711.02448))
 
-## 強化学習
+## 強化学習 (Reinforcement Learning)
 （大事な分野なのに最近の研究を追えていません…。)  
 - J. X. Wang, et al. "Prefrontal cortex as a meta-reinforcement learning system". *Nat. Neurosci.* (2018). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-018-0147-8)), ([bioRxiv](https://www.biorxiv.org/content/10.1101/295964v2)),  ([blog](https://deepmind.com/blog/prefrontal-cortex-meta-reinforcement-learning-system/))
 
@@ -123,6 +127,7 @@ This is non NN model.
 - J. Shen, M. D. Petkova, F. Liu, C. Tang. "Toward deciphering developmental patterning with deep neural network". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/08/09/374439))
 
 ## Brain Decoding & Brain-machine interface
-- E. Matsuo, I. Kobayashi, S. Nishimoto, S. Nishida,H. Asoh. "Generating Natural Language Descriptions for Semantic Representations of Human Brain Activity". *ACL SRW.* (2016). ([ACL Anthology](https://aclanthology.info/papers/P16-3004/p16-3004))
+- E. Matsuo, I. Kobayashi, S. Nishimoto, S. Nishida, H. Asoh. "Generating Natural Language Descriptions for Semantic Representations of Human Brain Activity". *ACL SRW.* (2016). ([ACL Anthology](https://aclanthology.info/papers/P16-3004/p16-3004))
+- Y. Güçlütürk, U. Güçlü, K. Seeliger, S.E.Bosch, R.J. van Lier, M.A.J. van Gerven. "Reconstructing perceived faces from brain activations with deep adversarial neural decoding". *NIPS* (2017). ([NIPS](https://papers.nips.cc/paper/7012-reconstructing-perceived-faces-from-brain-activations-with-deep-adversarial-neural-decoding))
 - R. Rao. "Towards Neural Co-Processors for the Brain: Combining Decoding and Encoding in Brain-Computer Interfaces". (2018). ([arXiv](https://arxiv.org/abs/1811.11876))
 - G. Shen, T. Horikawa, K. Majima, Y. Kamitani. "Deep image reconstruction from human brain activity". *PLOS* (2019). ([PLOS](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006633))
