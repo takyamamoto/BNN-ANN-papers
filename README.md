@@ -28,8 +28,10 @@
 
 ### 認知計算神経科学 (Cognitive computational neuroscience)
 - N. Kriegeskorte, P. Douglas. "Cognitive computational neuroscience". *Nat. Neurosci.* **21**(9), 1148-1160 (2018). ([arXiv](https://arXiv.org/abs/1807.11819))
+- R.M. Cichy, D. Kaiser. "Deep Neural Networks as Scientific Models". *Trends. Cogn. Sci.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1364661319300348?via%3Dihub))
 
 ### 計算論的精神医学 (Computational psychiatry)
+(この分野はもっと論文ありますが、追えてません)
 - R.E. Hoffman, U. Grasemann, R. Gueorguieva, D. Quinlan, D. Lane, R. Miikkulainen. "Using computational patients to evaluate illness mechanisms in schizophrenia". *Biol. Psychiatry.* **69**(10), 997–1005 (2011). ([PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3105006/))
 
 ## ニューラルネットによる神経表現の再現 (Emergence of neural representation in artificial neural networks)
