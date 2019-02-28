@@ -34,7 +34,7 @@
 (この分野はもっと論文ありますが、追えてません)
 - R.E. Hoffman, U. Grasemann, R. Gueorguieva, D. Quinlan, D. Lane, R. Miikkulainen. "Using computational patients to evaluate illness mechanisms in schizophrenia". *Biol. Psychiatry.* **69**(10), 997–1005 (2011). ([PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3105006/))
 
-## ニューラルネットによる神経表現の再現 (Emergence of neural representation in artificial neural networks)
+## Deep neural network as models of the Brain
 脳の神経表現の理解は難しい。ニューラルネットワークに特定のタスクを学習（特定の損失関数に対して最適化）させると、脳の神経表現と同じ表現を獲得する場合がある。このとき、間接的に脳の神経表現の目的を知ることができる(Whyの解決手法)。
 
 ### 視覚 (Vision)
@@ -96,8 +96,11 @@ This is non NN model.
 - W. Lotter, G. Kreiman, D. Cox. "A neural network trained to predict future video frames mimics critical properties of biological neuronal responses and perception". (2018). ([arXiv](https://arXiv.org/abs/1805.10734))  
 - E. Watanabe, A. Kitaoka, K. Sakamoto, M. Yasugi, K. Tanaka. "Illusory Motion Reproduced by Deep Neural Networks Trained for Prediction". *Front. Psychol.* (2018). ([Front. Psychol.](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00345/full))
 
-### subLSTM
+#### subLSTM
 - R. Costa, Y. Assael, B. Shillingford, N. Freitas, T. Vogels. "Cortical microcircuits as gated-recurrent neural networks". *NIPS.* (2017). ([arXiv](https://arXiv.org/abs/1711.02448))
+
+#### 活性化関数 (activation function)
+- G.S. Bhumbra. "Deep learning improved by biological activation functions". (2018). ([arXiv](https://arxiv.org/abs/1804.11237))
 
 ## 強化学習 (Reinforcement Learning)
 （大事な分野なのに最近の研究を追えていません…。)  
