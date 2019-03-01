@@ -17,6 +17,7 @@
 - D. Cox, T. Dean. "Neural networks and neuroscience-inspired computer vision". *Curr. Biol.* **24**(18) 921-929 (2014). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0960982214010392?via%3Dihub))
 - A. Marblestone, G. Wayne, K. Kording. "Toward an integration of deep learning and neuroscience". (2016). ([arXiv](https://arXiv.org/abs/1606.03813))
 - D. Silva, P. Cruz, A. Gutierrez. "Are the long-short term memory and convolution neural net biological system?". *KICS.* **4**(2), 100-106 (2018). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S2405959518300249))
+- N. Kriegeskorte, T. Golan. "Neural network models and deep learning - a primer for biologists". (2019). ([arXiv](https://arxiv.org/abs/1902.04704))
 
 ### ニューラルネットワークの解析手法 (Analyzing methods for neural networks)
 ニューラルネットワークの神経表現を理解するための手法。
@@ -126,6 +127,7 @@ This is non NN model.
 
 ### 言語学習 (Word learning)
 - B.M. Lake, T. Linzen, M. Baroni. "Human few-shot learning of compositional instructions". (2019). ([arXiv](https://arxiv.org/abs/1901.04587))
+- A. Alamia, V. Gauducheau, D. Paisios, R. VanRullen. "Which Neural Network Architecture matches Human Behavior in Artificial Grammar Learning?". (2019). ([arXiv](https://arxiv.org/abs/1902.04861))
 
 ### ニューラルネットワークと脳の発達 (Development of neural networks and brains)
 - A.M. Saxe, J. L. McClelland, S. Ganguli. "A mathematical theory of semantic development in deep neural networks". (2018). ([arXiv](https://arXiv.org/abs/1810.10531))
