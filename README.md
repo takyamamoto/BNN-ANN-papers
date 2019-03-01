@@ -28,6 +28,7 @@
 
 ### 認知計算神経科学 (Cognitive computational neuroscience)
 - N. Kriegeskorte, P. Douglas. "Cognitive computational neuroscience". *Nat. Neurosci.* **21**(9), 1148-1160 (2018). ([arXiv](https://arXiv.org/abs/1807.11819))
+- J.S. Bowers. "Parallel Distributed Processing Theory in the Age of Deep Networks". *Trends. Cogn. Sci.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1364661317302164?via%3Dihub))
 - R.M. Cichy, D. Kaiser. "Deep Neural Networks as Scientific Models". *Trends. Cogn. Sci.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1364661319300348?via%3Dihub))
 
 ### 計算論的精神医学 (Computational psychiatry)
@@ -71,6 +72,7 @@ This is non NN model.
 ### グリッド細胞 (Grid cells)
 - C. Cueva, X. Wei. "Emergence of grid-like representations by training recurrent neural networks to perform spatial localization". *ICLR.* (2018). ([arXiv](https://arXiv.org/abs/1803.07770))
 - A. Banino, et al. "Vector-based navigation using grid-like representations in artificial agents". *Nat.* **557**(7705), 429–433 (2018). ([pdf](https://deepmind.com/documents/201/Vector-based%20Navigation%20using%20Grid-like%20Representations%20in%20Artificial%20Agents.pdf))
+- J.C.R. Whittington. et al. "Generalisation of structural knowledge in the hippocampal-entorhinal system".  *NIPS.* (2018). ([arXiv](https://arxiv.org/abs/1805.09042))
 
 ### 認知タスク (Cognitive task)
 -  H.F. Song, G.R. Yang, X.J. Wang. "Reward-based training of recurrent neural networks for cognitive and value-based tasks". *eLife*. **6** (2017). ([eLife](https://elifesciences.org/articles/21492))
