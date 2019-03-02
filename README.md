@@ -12,20 +12,29 @@
 - [Brain-computer interface](##Brain-computer interface)
 -->
 
-## ニューラルネットワークと計算神経科学 (Neural networks and computational neuroscience)
-### 総説 (Survey)
+## Artificial neural networks and computational neuroscience
+#### Survey
 - D. Cox, T. Dean. "Neural networks and neuroscience-inspired computer vision". *Curr. Biol.* **24**(18) 921-929 (2014). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0960982214010392?via%3Dihub))
 - A. Marblestone, G. Wayne, K. Kording. "Toward an integration of deep learning and neuroscience". (2016). ([arXiv](https://arXiv.org/abs/1606.03813))
 - D. Silva, P. Cruz, A. Gutierrez. "Are the long-short term memory and convolution neural net biological system?". *KICS.* **4**(2), 100-106 (2018). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S2405959518300249))
 - N. Kriegeskorte, T. Golan. "Neural network models and deep learning - a primer for biologists". (2019). ([arXiv](https://arxiv.org/abs/1902.04704))
 
 ### ニューラルネットワークの解析手法 (Analyzing methods for neural networks)
-ニューラルネットワークの神経表現を理解するための手法。
-- D. Sussillo, O. Barak. "Opening the black box: low-dimensional dynamics in high-dimensional recurrent neural networks". *Neural Comput.* **25**(3), 626-649 (2013). ([MIT Press](https://www.mitpressjournals.org/doi/full/10.1162/NECO_a_00409?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed))
-- M. Raghu, J. Gilmer, J. Yosinski, J. Sohl-Dickstein. "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability". *NIPS.* (2017). ([arXiv](https://arXiv.org/abs/1706.05806))
+Methods for understanding of neural representation of ANN.
+#### Survey
 - D. Barrett, A. Morcos, J. Macke. "Analyzing biological and artificial neural networks: challenges with opportunities for synergy?". (2018). ([arXiv](https://arXiv.org/abs/1810.13373))
-- M. Haesemeyer, A. Schier, F. Engert. "Convergent temperature representations in artificial and biological neural networks". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/08/29/390435))
 
+#### Canonical correlation analysis (CCA)
+- M. Raghu, J. Gilmer, J. Yosinski, J. Sohl-Dickstein. "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability". *NIPS.* (2017). ([arXiv](https://arXiv.org/abs/1706.05806))
+- H. Wang, et al. "Finding the needle in high-dimensional haystack: A tutorial on canonical correlation analysis". (2018). ([arXiv](https://arxiv.org/abs/1812.02598))
+
+#### Fix point analysis for RNN
+- D. Sussillo, O. Barak. "Opening the black box: low-dimensional dynamics in high-dimensional recurrent neural networks". *Neural Comput.* **25**(3), 626-649 (2013). ([MIT Press](https://www.mitpressjournals.org/doi/full/10.1162/NECO_a_00409?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed))
+- M.D. Golub, D. Sussillo. "FixedPointFinder: A Tensorflow toolbox for identifying and characterizing fixed points in recurrent neural networks". *JOSS.* (2018). ([pdf](https://web.stanford.edu/~mgolub/publications/GolubJOSS2018.pdf)), ([GitHub](https://github.com/mattgolub/fixed-point-finder))
+- G.E. Katz, J.A. Reggia. "Using Directional Fibers to Locate Fixed Points of Recurrent Neural Networks". *IEEE.* (2018). ([IEEE](https://ieeexplore.ieee.org/document/8016349))
+
+#### Others
+- M. Haesemeyer, A. Schier, F. Engert. "Convergent temperature representations in artificial and biological neural networks". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/08/29/390435))
 
 ### 認知計算神経科学 (Cognitive computational neuroscience)
 - N. Kriegeskorte, P. Douglas. "Cognitive computational neuroscience". *Nat. Neurosci.* **21**(9), 1148-1160 (2018). ([arXiv](https://arXiv.org/abs/1807.11819))
@@ -90,7 +99,7 @@ This is non NN model.
 ## 神経科学に基づいたアーキテクチャ (Neural network architecture based on neuroscience)
 ニューラルネットワークのアーキテクチャの中で神経科学の知見を取り入れたもの。
 
-### 総説 (Survey)
+### Survey
 - D. Hassabis, D. Kumaran, C. Summerfield, M. Botvinick. "Neuroscience-Inspired Artificial Intelligence". *Neuron.* **95**(2), 245-258 (2017).
 ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627317305093))
 
@@ -102,7 +111,7 @@ This is non NN model.
 #### subLSTM
 - R. Costa, Y. Assael, B. Shillingford, N. Freitas, T. Vogels. "Cortical microcircuits as gated-recurrent neural networks". *NIPS.* (2017). ([arXiv](https://arXiv.org/abs/1711.02448))
 
-#### 活性化関数 (activation function)
+#### Activation functions
 - G.S. Bhumbra. "Deep learning improved by biological activation functions". (2018). ([arXiv](https://arxiv.org/abs/1804.11237))
 
 ## 強化学習 (Reinforcement Learning)
