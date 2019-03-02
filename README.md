@@ -79,10 +79,13 @@ This is non NN model.
 ### 運動野 (Motor cortex)
 - D. Sussillo, M. Churchland, M. Kaufman, K. Shenoy. "A neural network that finds a naturalistic solution for the production of muscle activity". *Nat. Neurosci.* **18**(7), 1025–1033 (2015). ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26075643))
 
-### グリッド細胞 (Grid cells)
+### Spatial coding (Place cells, Grid cells)
 - C. Cueva, X. Wei. "Emergence of grid-like representations by training recurrent neural networks to perform spatial localization". *ICLR.* (2018). ([arXiv](https://arXiv.org/abs/1803.07770))
 - A. Banino, et al. "Vector-based navigation using grid-like representations in artificial agents". *Nat.* **557**(7705), 429–433 (2018). ([pdf](https://deepmind.com/documents/201/Vector-based%20Navigation%20using%20Grid-like%20Representations%20in%20Artificial%20Agents.pdf))
 - J.C.R. Whittington. et al. "Generalisation of structural knowledge in the hippocampal-entorhinal system".  *NIPS.* (2018). ([arXiv](https://arxiv.org/abs/1805.09042))
+
+### Rodent barrel cortex
+- C. Zhuang, J. Kubilius, M. Hartmann, D. Yamins. "Toward Goal-Driven Neural Network Models for the Rodent Whisker-Trigeminal System". *NIPS.* (2017). ([arXiv](https://arxiv.org/abs/1706.07555))
 
 ### 認知タスク (Cognitive task)
 -  H.F. Song, G.R. Yang, X.J. Wang. "Reward-based training of recurrent neural networks for cognitive and value-based tasks". *eLife*. **6** (2017). ([eLife](https://elifesciences.org/articles/21492))
@@ -116,6 +119,7 @@ This is non NN model.
 
 ## 強化学習 (Reinforcement Learning)
 （大事な分野なのに最近の研究を追えていません…。)  
+- N. Haber, D. Mrowca, L. Fei-Fei, D. Yamins. "Learning to Play with Intrinsically-Motivated Self-Aware Agents". *NIPS.* (2018). ([arXiv](https://arxiv.org/abs/1802.07442))
 - J. X. Wang, et al. "Prefrontal cortex as a meta-reinforcement learning system". *Nat. Neurosci.* (2018). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-018-0147-8)), ([bioRxiv](https://www.biorxiv.org/content/10.1101/295964v2)),  ([blog](https://deepmind.com/blog/prefrontal-cortex-meta-reinforcement-learning-system/))
 
 ## 学習と発達 (Learning and development)
