@@ -28,7 +28,8 @@ Methods for understanding of neural representation of ANN.
 - M. Raghu, J. Gilmer, J. Yosinski, J. Sohl-Dickstein. "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability". *NIPS.* (2017). ([arXiv](https://arXiv.org/abs/1706.05806))
 - H. Wang, et al. "Finding the needle in high-dimensional haystack: A tutorial on canonical correlation analysis". (2018). ([arXiv](https://arxiv.org/abs/1812.02598))
 
-#### Fix point analysis for RNN
+#### Fixed point analysis for RNN
+- M.B. Ottaway, P.Y. Simard, D.H. Ballard. "Fixed point analysis for recurrent networks". *NIPS.* (1989). ([pdf](https://papers.nips.cc/paper/181-fixed-point-analysis-for-recurrent-networks.pdf))
 - D. Sussillo, O. Barak. "Opening the black box: low-dimensional dynamics in high-dimensional recurrent neural networks". *Neural Comput.* **25**(3), 626-649 (2013). ([MIT Press](https://www.mitpressjournals.org/doi/full/10.1162/NECO_a_00409?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed))
 - M.D. Golub, D. Sussillo. "FixedPointFinder: A Tensorflow toolbox for identifying and characterizing fixed points in recurrent neural networks". *JOSS.* (2018). ([pdf](https://web.stanford.edu/~mgolub/publications/GolubJOSS2018.pdf)), ([GitHub](https://github.com/mattgolub/fixed-point-finder))
 - G.E. Katz, J.A. Reggia. "Using Directional Fibers to Locate Fixed Points of Recurrent Neural Networks". *IEEE.* (2018). ([IEEE](https://ieeexplore.ieee.org/document/8016349))
@@ -57,6 +58,7 @@ Methods for understanding of neural representation of ANN.
 - U. Güçlü, M.A.J. van Gerven. "Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Ventral Stream". *J. Neurosci.* **35**(27), (2015). ([J. Neurosci.](http://www.jneurosci.org/content/35/27/10005))
 - K.M. Jozwik, N. Kriegeskorte, K.R. Storrs, M. Mur. "Deep Convolutional Neural Networks Outperform Feature-Based But Not Categorical Models in Explaining Object Similarity Judgments". *Front. Psychol*. (2017). ([Front. Psychol](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01726/full))
 - C. J. Spoerer, P. McClure, N. Kriegeskorte. "Recurrent Convolutional Neural Networks: A Better Model of Biological Object Recognition". *Front. Psychol.* (2017). ([Front. Psychol](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01551/full))
+- M.N.U. Laskar, L.G.S. Giraldo, O. Schwartz. "Correspondence of Deep Neural Networks and the Brain for Visual Textures". (2018). ([arXiv](https://arxiv.org/abs/1806.02888))
 - I. Kuzovkin, et al. "Activations of Deep Convolutional Neural Network are Aligned with Gamma Band Activity of Human Visual Cortex". *Commun. Biol.* **1** (2018). ([Commun. Biol.](https://www.nature.com/articles/s42003-018-0110-y))
 - M. Schrimpf, et al. "Brain-Score: Which Artificial Neural Network for Object Recognition is most Brain-Like?". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/09/05/407007))
 - E. Kim, D. Hannan, G. Kenyon. "Deep Sparse Coding for Invariant Multimodal Halle Berry Neurons". *CVPR.* (2018). ([arXiv](https://arXiv.org/abs/1711.07998))
@@ -116,6 +118,9 @@ This is non NN model.
 
 #### Activation functions
 - G.S. Bhumbra. "Deep learning improved by biological activation functions". (2018). ([arXiv](https://arxiv.org/abs/1804.11237))
+
+#### Flexible normalization
+- L. Gonzalo, S. Giraldo, O. Schwartz. "Integrating Flexible Normalization into Mid-Level Representations of Deep Convolutional Neural Networks". (2018). ([arXiv](https://arxiv.org/abs/1806.01823))
 
 ## 強化学習 (Reinforcement Learning)
 （大事な分野なのに最近の研究を追えていません…。)  
