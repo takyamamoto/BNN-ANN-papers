@@ -157,3 +157,6 @@ This is non NN model.
 - Y. Güçlütürk, U. Güçlü, K. Seeliger, S.E.Bosch, R.J. van Lier, M.A.J. van Gerven. "Reconstructing perceived faces from brain activations with deep adversarial neural decoding". *NIPS* (2017). ([NIPS](https://papers.nips.cc/paper/7012-reconstructing-perceived-faces-from-brain-activations-with-deep-adversarial-neural-decoding))
 - R. Rao. "Towards Neural Co-Processors for the Brain: Combining Decoding and Encoding in Brain-Computer Interfaces". (2018). ([arXiv](https://arxiv.org/abs/1811.11876))
 - G. Shen, T. Horikawa, K. Majima, Y. Kamitani. "Deep image reconstruction from human brain activity". *PLOS* (2019). ([PLOS](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006633))
+
+### Others
+- M.S. Goldman. "Memory without Feedback in a Neural Network". *Neuron* (2009). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627308010830?via%3Dihub))
