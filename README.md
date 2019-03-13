@@ -143,6 +143,7 @@ This is non NN model.
 
 #### Survey
 - J. Whittington, R. Bogacz. "Theories of Error Back-Propagation in the Brain". *Trends. Cogn. Sci.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1364661319300129?via%3Dihub))
+- T.P. Lillicrap, A.Santoro. "Backpropagation through time and the brain". *Curr. Opin. Neurobiol.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0959438818302009))
 
 ### 言語学習 (Language learning)
 - B.M. Lake, T. Linzen, M. Baroni. "Human few-shot learning of compositional instructions". (2019). ([arXiv](https://arxiv.org/abs/1901.04587))
