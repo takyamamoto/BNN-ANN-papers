@@ -84,7 +84,7 @@ This is non NN model.
 
 ### Spatial coding (Place cells, Grid cells)
 - C. Cueva, X. Wei. "Emergence of grid-like representations by training recurrent neural networks to perform spatial localization". *ICLR.* (2018). ([arXiv](https://arXiv.org/abs/1803.07770))
-- A. Banino, et al. "Vector-based navigation using grid-like representations in artificial agents". *Nat.* **557**(7705), 429–433 (2018). ([pdf](https://deepmind.com/documents/201/Vector-based%20Navigation%20using%20Grid-like%20Representations%20in%20Artificial%20Agents.pdf))
+- A. Banino, et al. "Vector-based navigation using grid-like representations in artificial agents". *Nat.* **557**(7705), 429–433 (2018). ([pdf](https://deepmind.com/documents/201/Vector-based%20Navigation%20using%20Grid-like%20Representations%20in%20Artificial%20Agents.pdf)), ([GitHub](https://github.com/deepmind/grid-cells))
 - J.C.R. Whittington. et al. "Generalisation of structural knowledge in the hippocampal-entorhinal system".  *NIPS.* (2018). ([arXiv](https://arxiv.org/abs/1805.09042))
 
 ### Rodent barrel cortex
