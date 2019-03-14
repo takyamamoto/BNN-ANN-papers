@@ -100,7 +100,7 @@ This is non NN model.
 
 ### 短期記憶課題 (short-term memory task)
 - K. Rajan, C.D.Harvey, D.W.Tank. "Recurrent Network Models of Sequence Generation and Memory". *Neuron.* **90**(1), 128-142 (2016). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627316001021?via%3Dihub#fig1))
-- A.E. Orhan, W.J. Ma. "Task representations in neural networks trained to perform many cognitive tasks". *Nat. Neurosci.* (2019). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-018-0314-y)) ([GitHub](https://github.com/eminorhan/recurrent-memory))
+- A.E. Orhan, W.J. Ma. " A diverse range of factors affect the nature of neural representations underlying short-term memory". *Nat. Neurosci.* (2019). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-018-0314-y)), ([bioRxiv](https://www.biorxiv.org/content/10.1101/244707v3)), ([GitHub](https://github.com/eminorhan/recurrent-memory))
 
 ## 神経科学に基づいたアーキテクチャ (Neural network architecture based on neuroscience)
 ニューラルネットワークのアーキテクチャの中で神経科学の知見を取り入れたもの。
