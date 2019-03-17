@@ -161,3 +161,5 @@ This is non NN model.
 
 ### Others
 - M.S. Goldman. "Memory without Feedback in a Neural Network". *Neuron* (2009). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627308010830?via%3Dihub))
+- R. Yuste. "From the neuron doctrine to neural networks". *Nat. Rev. Neurosci.* 16, 487–497 (2015). ([Nat. Rev. Neurosci.](https://www.nature.com/articles/nrn3962))
+- S. Saxena, J.P. Cunningham. "Towards the neural population doctrine". *Curr. Opin. Neurobiol.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0959438818300990))
