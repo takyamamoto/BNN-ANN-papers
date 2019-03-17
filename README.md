@@ -35,6 +35,9 @@ Methods for understanding of neural representation of ANN.
 - M.D. Golub, D. Sussillo. "FixedPointFinder: A Tensorflow toolbox for identifying and characterizing fixed points in recurrent neural networks". *JOSS.* (2018). ([pdf](https://web.stanford.edu/~mgolub/publications/GolubJOSS2018.pdf)), ([GitHub](https://github.com/mattgolub/fixed-point-finder))
 - G.E. Katz, J.A. Reggia. "Using Directional Fibers to Locate Fixed Points of Recurrent Neural Networks". *IEEE.* (2018). ([IEEE](https://ieeexplore.ieee.org/document/8016349))
 
+#### Ablation analysis
+- A.S. Morcos, D.G.T. Barrett, N.C. Rabinowitz, M. Botvinick. "On the importance of single directions for generalization". *ICLR.* (2018). ([arXiv](https://arxiv.org/abs/1803.06959))
+
 #### Others
 - M. Haesemeyer, A. Schier, F. Engert. "Convergent temperature representations in artificial and biological neural networks". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/08/29/390435))
 
