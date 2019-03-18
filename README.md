@@ -100,6 +100,7 @@ This is non NN model.
 
 ### 時間認知 (Time perception)
 - N.F. Hardy, V. Goudar, J.L. Romero-Sosa, D.V. Buonomano. "A model of temporal scaling correctly predicts that motor timing improves with speed". *Nat. Commun.* **9** (2018). ([Nat. Commun.](https://www.nature.com/articles/s41467-018-07161-6))
+- J. Wang, D. Narain, E.A. Hosseini, M. Jazayeri. "Flexible timing by temporal scaling of cortical responses". *Nat. Neurosci.* **21** 102–110(2018). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-017-0028-6))
 - W. Roseboom, Z. Fountas, K. Nikiforou, D. Bhowmik, M. Shanahan, A. K. Seth. "Activity in perceptual classification networks as a basis for human subjective time perception". *Nat. Commun.* **10** (2019). ([Nat. Commun.](https://www.nature.com/articles/s41467-018-08194-7))
 
 ### 短期記憶課題 (short-term memory task)
