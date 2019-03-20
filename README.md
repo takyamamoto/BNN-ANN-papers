@@ -72,6 +72,8 @@ Methods for understanding of neural representation of ANN.
 - J. Lindsey, S. Ocko, S. Ganguli, S. Deny. "A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs". (2019). ([arXiv](https://arXiv.org/abs/1901.00945))
 - J. Ukita, T. Yoshida, K. Ohki. "Characterisation of nonlinear receptive fields of visual neurons by convolutional neural network". *Sci.Rep.* (2019). ([Sci.Rep.](https://www.nature.com/articles/s41598-019-40535-4))
 - I. Fruend. "Simple, biologically informed models, but not convolutional neural networks describe target detection in naturalistic images". *bioRxiv* (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/578633v1))
+- T.C. Kietzmann, *et al*. "Recurrence required to capture the dynamic computations of the human ventral visual stream". (2019). ([arXiv](https://arxiv.org/abs/1903.05946))
+- K. Qiao. *et al*. "Category decoding of visual stimuli from human brain activity using a bidirectional recurrent neural network to simulate bidirectional information flows in human visual cortices". (2019). ([arXiv](https://arxiv.org/abs/1903.07783))
 
 #### Recursive Cortical Network (RCN)
 This is non NN model.
