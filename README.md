@@ -53,6 +53,9 @@ Methods for understanding of neural representation of ANN.
 ## Deep neural network as models of the Brain
 脳の神経表現の理解は難しい。ニューラルネットワークに特定のタスクを学習（特定の損失関数に対して最適化）させると、脳の神経表現と同じ表現を獲得する場合がある。このとき、間接的に脳の神経表現の目的を知ることができる(Whyの解決手法)。
 
+### Survey
+- A.J.E. Kell, J.H. McDermott. "Deep neural network models of sensory systems: windows onto the role of task constraints". *Curr. Opin. Neurobiol.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0959438818302034))
+
 ### 視覚 (Vision)
 - D. Zipser, R.A. Andersen. "A back-propagation programmed network that simulates response properties of a subset of posterior parietal neurons". *Nat.* **331**, 679–684 (1988). ([Nat.](https://www.nature.com/articles/331679a0))
 - A. Krizhevsky, I. Sutskever, G. Hinton. "ImageNet classification with deep convolutional neural networks". *NIPS* (2012). ([pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf))
@@ -148,6 +151,7 @@ This is non NN model.
 - S. Bartunov, A. Santoro, B. Richards, L. Marris, G. Hinton, T. Lillicrap. "Assessing the Scalability of Biologically-Motivated Deep Learning Algorithms and Architectures". *NIPS.* (2018). ([arXiv](https://arXiv.org/abs/1807.04587))
 - J. Sacramento, R. P. Costa, Y. Bengio, W. Senn. "Dendritic cortical microcircuits approximate the backpropagation algorithm". *NIPS.* (2018). ([arXiv](https://arXiv.org/abs/1810.11393))
 - A. Nøkland, L.H. Eidnes. "Training Neural Networks with Local Error Signals".  (2019). ([arXiv](https://arXiv.org/abs/1901.06656)) ([GitHub](https://github.com/anokland/local-loss))
+- R. Feldesh. "The Distributed Engram". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/583195v1))
 
 #### Survey
 - J. Whittington, R. Bogacz. "Theories of Error Back-Propagation in the Brain". *Trends. Cogn. Sci.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1364661319300129?via%3Dihub))
@@ -160,6 +164,9 @@ This is non NN model.
 ### ニューラルネットワークと脳の発達 (Development of neural networks and brains)
 - A.M. Saxe, J. L. McClelland, S. Ganguli. "A mathematical theory of semantic development in deep neural networks". (2018). ([arXiv](https://arXiv.org/abs/1810.10531))
 - J. Shen, M. D. Petkova, F. Liu, C. Tang. "Toward deciphering developmental patterning with deep neural network". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/08/09/374439))
+
+### A Critique of Pure Learning
+- A. Zador. "A Critique of Pure Learning: What Artificial Neural Networks can Learn from Animal Brains". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/582643v1))
 
 ## Brain Decoding & Brain-machine interface
 - E. Matsuo, I. Kobayashi, S. Nishimoto, S. Nishida, H. Asoh. "Generating Natural Language Descriptions for Semantic Representations of Human Brain Activity". *ACL SRW.* (2016). ([ACL Anthology](https://aclanthology.info/papers/P16-3004/p16-3004))
