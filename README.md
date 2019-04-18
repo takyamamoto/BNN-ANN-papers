@@ -161,6 +161,7 @@ This is non NN model.
 - J. Sacramento, R. P. Costa, Y. Bengio, W. Senn. "Dendritic cortical microcircuits approximate the backpropagation algorithm". *NIPS.* (2018). ([arXiv](https://arXiv.org/abs/1810.11393))
 - A. Nøkland, L.H. Eidnes. "Training Neural Networks with Local Error Signals".  (2019). ([arXiv](https://arXiv.org/abs/1901.06656)) ([GitHub](https://github.com/anokland/local-loss))
 - R. Feldesh. "The Distributed Engram". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/583195v1))
+- M. Akrout, C. Wilson, P.C. Humphreys, T.Lillicrap, D. Tweed. "Deep Learning without Weight Transport". (2019). ([arXiv](https://arxiv.org/abs/1904.05391))
 
 #### Survey
 - J. Whittington, R. Bogacz. "Theories of Error Back-Propagation in the Brain". *Trends. Cogn. Sci.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1364661319300129?via%3Dihub))
@@ -179,7 +180,7 @@ This is non NN model.
 - R. Rao. "Towards Neural Co-Processors for the Brain: Combining Decoding and Encoding in Brain-Computer Interfaces". (2018). ([arXiv](https://arxiv.org/abs/1811.11876))
 - G. Shen, T. Horikawa, K. Majima, Y. Kamitani. "Deep image reconstruction from human brain activity". *PLOS* (2019). ([PLOS](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006633))
 
-### Others
+## Others
 - M.S. Goldman. "Memory without Feedback in a Neural Network". *Neuron* (2009). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627308010830?via%3Dihub))
 - R. Yuste. "From the neuron doctrine to neural networks". *Nat. Rev. Neurosci.* 16, 487–497 (2015). ([Nat. Rev. Neurosci.](https://www.nature.com/articles/nrn3962))
 - S. Saxena, J.P. Cunningham. "Towards the neural population doctrine". *Curr. Opin. Neurobiol.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0959438818300990))
