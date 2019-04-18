@@ -123,7 +123,7 @@ This is non NN model.
 
 
 ## 神経科学に基づいたアーキテクチャ (Neural network architecture based on neuroscience)
-ニューラルネットワークのアーキテクチャの中で神経科学の知見を取り入れたもの。
+ニューラルネットワークのアーキテクチャの中で神経科学の知見を取り入れたもの.
 
 ### Survey
 - D. Hassabis, D. Kumaran, C. Summerfield, M. Botvinick. "Neuroscience-Inspired Artificial Intelligence". *Neuron.* **95**(2), 245-258 (2017).
