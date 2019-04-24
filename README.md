@@ -20,10 +20,14 @@
 - D. Silva, P. Cruz, A. Gutierrez. "Are the long-short term memory and convolution neural net biological system?". *KICS.* **4**(2), 100-106 (2018). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S2405959518300249))
 - N. Kriegeskorte, T. Golan. "Neural network models and deep learning - a primer for biologists". (2019). ([arXiv](https://arxiv.org/abs/1902.04704))
 
-### ニューラルネットワークの解析手法 (Analyzing methods for neural networks)
+### ニューラルネットワークの解析手法 (Analysis methods for neural networks)
 Methods for understanding of neural representation of ANN.
 #### Survey
 - D. Barrett, A. Morcos, J. Macke. "Analyzing biological and artificial neural networks: challenges with opportunities for synergy?". (2018). ([arXiv](https://arXiv.org/abs/1810.13373))
+
+#### Neuron Feature
+- I. Rafegas, M. Vanrell, L.A. Alexandre. "Understanding trained CNNs by indexing neuron selectivity". (2017). ([arXiv](https://arxiv.org/abs/1702.00382))
+- A. Nguyen, J. Yosinski, J. Clune. "Understanding Neural Networks via Feature Visualization: A survey". (2019). ([arXiv](https://arxiv.org/abs/1904.08939))
 
 #### Canonical correlation analysis (CCA)
 - M. Raghu, J. Gilmer, J. Yosinski, J. Sohl-Dickstein. "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability". *NIPS.* (2017). ([arXiv](https://arXiv.org/abs/1706.05806))
@@ -56,6 +60,10 @@ Methods for understanding of neural representation of ANN.
 ### Survey
 - A.J.E. Kell, J.H. McDermott. "Deep neural network models of sensory systems: windows onto the role of task constraints". *Curr. Opin. Neurobiol.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0959438818302034))
 
+### Cortical neuron
+- P. Poirazi, T. Brannon, B.W Mel. "Pyramidal Neuron as Two-Layer Neural Network". *Neuron*. **37**(6). (2003). ([Neuron](https://www.cell.com/neuron/fulltext/S0896-62730300149-1))
+- B. David, S. Idan, L. Michael. "Single Cortical Neurons as Deep Artificial Neural Networks". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/613141v1))
+
 ### 視覚 (Vision)
 - D. Zipser, R.A. Andersen. "A back-propagation programmed network that simulates response properties of a subset of posterior parietal neurons". *Nat.* **331**, 679–684 (1988). ([Nat.](https://www.nature.com/articles/331679a0))
 - A. Krizhevsky, I. Sutskever, G. Hinton. "ImageNet classification with deep convolutional neural networks". *NIPS* (2012). ([pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf))
@@ -71,7 +79,7 @@ Methods for understanding of neural representation of ANN.
 - E. Kim, D. Hannan, G. Kenyon. "Deep Sparse Coding for Invariant Multimodal Halle Berry Neurons". *CVPR.* (2018). ([arXiv](https://arXiv.org/abs/1711.07998))
 - S. Ocko, J. Lindsey, S. Ganguli, S. Deny. "The emergence of multiple retinal cell types through efficient coding of natural movies". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/10/31/458737))
 - Q. Yan, et al. "Revealing Fine Structures of the Retinal Receptive Field by Deep Learning Networks". (2018). ([arXiv](https://arXiv.org/abs/1811.02290))
-- A. Nayebi, D. Bear, J. Kubilius, K. Kar, S. Ganguli, D. Sussillo, J. DiCarlo, D. Yamins. "Task-Driven Convolutional Recurrent Models of the Visual System". (2018). ([arXiv](https://arXiv.org/abs/1807.00053))
+- A. Nayebi, D. Bear, J. Kubilius, K. Kar, S. Ganguli, D. Sussillo, J. DiCarlo, D. Yamins. "Task-Driven Convolutional Recurrent Models of the Visual System". (2018). ([arXiv](https://arXiv.org/abs/1807.00053)), ([GitHub](https://github.com/neuroailab/tnn))
 - J. Lindsey, S. Ocko, S. Ganguli, S. Deny. "A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs". (2019). ([arXiv](https://arXiv.org/abs/1901.00945))
 - J. Ukita, T. Yoshida, K. Ohki. "Characterisation of nonlinear receptive fields of visual neurons by convolutional neural network". *Sci.Rep.* (2019). ([Sci.Rep.](https://www.nature.com/articles/s41598-019-40535-4))
 - I. Fruend. "Simple, biologically informed models, but not convolutional neural networks describe target detection in naturalistic images". *bioRxiv* (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/578633v1))
@@ -121,7 +129,6 @@ This is non NN model.
 - A. Alamia, V. Gauducheau, D. Paisios, R. VanRullen. "Which Neural Network Architecture matches Human Behavior in Artificial Grammar Learning?". (2019). ([arXiv](https://arxiv.org/abs/1902.04861))
 
 
-
 ## 神経科学に基づいたアーキテクチャ (Neural network architecture based on neuroscience)
 ニューラルネットワークのアーキテクチャの中で神経科学の知見を取り入れたもの.
 
@@ -144,7 +151,7 @@ This is non NN model.
 - L. Gonzalo, S. Giraldo, O. Schwartz. "Integrating Flexible Normalization into Mid-Level Representations of Deep Convolutional Neural Networks". (2018). ([arXiv](https://arxiv.org/abs/1806.01823))
 
 ## 強化学習 (Reinforcement Learning)
-（大事な分野なのに最近の研究を追えていません…。)  
+大事な分野なのに最近の研究を追えていません
 - N. Haber, D. Mrowca, L. Fei-Fei, D. Yamins. "Learning to Play with Intrinsically-Motivated Self-Aware Agents". *NIPS.* (2018). ([arXiv](https://arxiv.org/abs/1802.07442))
 - J. X. Wang, et al. "Prefrontal cortex as a meta-reinforcement learning system". *Nat. Neurosci.* (2018). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-018-0147-8)), ([bioRxiv](https://www.biorxiv.org/content/10.1101/295964v2)),  ([blog](https://deepmind.com/blog/prefrontal-cortex-meta-reinforcement-learning-system/))
 
