@@ -154,6 +154,7 @@ This is non NN model.
 大事な分野なのに最近の研究を追えていません
 - N. Haber, D. Mrowca, L. Fei-Fei, D. Yamins. "Learning to Play with Intrinsically-Motivated Self-Aware Agents". *NIPS.* (2018). ([arXiv](https://arxiv.org/abs/1802.07442))
 - J. X. Wang, et al. "Prefrontal cortex as a meta-reinforcement learning system". *Nat. Neurosci.* (2018). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-018-0147-8)), ([bioRxiv](https://www.biorxiv.org/content/10.1101/295964v2)),  ([blog](https://deepmind.com/blog/prefrontal-cortex-meta-reinforcement-learning-system/))
+- E.O. Neftci, B.B. Averbeck. "Reinforcement learning in artificial and biological systems". *Nat. Mach. Intell.* (2019). ([Nat. Mach. Intell.](https://www.nature.com/articles/s42256-019-0025-4))
 
 ## 学習と発達 (Learning and development)
 
