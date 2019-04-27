@@ -35,7 +35,7 @@ Methods for understanding of neural representation of ANN.
 
 #### Fixed point analysis for RNN
 - M.B. Ottaway, P.Y. Simard, D.H. Ballard. "Fixed point analysis for recurrent networks". *NIPS.* (1989). ([pdf](https://papers.nips.cc/paper/181-fixed-point-analysis-for-recurrent-networks.pdf))
-- D. Sussillo, O. Barak. "Opening the black box: low-dimensional dynamics in high-dimensional recurrent neural networks". *Neural Comput.* **25**(3), 626-649 (2013). ([MIT Press](https://www.mitpressjournals.org/doi/full/10.1162/NECO_a_00409?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed))
+- D. Sussillo, O. Barak. "Opening the black box: low-dimensional dynamics in high-dimensional recurrent neural networks". *Neural Comput.* **25**(3), 626-649 (2013). ([MIT Press](https://www.mitpressjournals.org/doi/full/10.1162/NECO_a_00409?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed)), ([Jupyter notebook](https://github.com/google-research/computation-thru-dynamics/blob/master/notebooks/Fixed%20Point%20Finder%20Tutorial.ipynb))
 - M.D. Golub, D. Sussillo. "FixedPointFinder: A Tensorflow toolbox for identifying and characterizing fixed points in recurrent neural networks". *JOSS.* (2018). ([pdf](https://web.stanford.edu/~mgolub/publications/GolubJOSS2018.pdf)), ([GitHub](https://github.com/mattgolub/fixed-point-finder))
 - G.E. Katz, J.A. Reggia. "Using Directional Fibers to Locate Fixed Points of Recurrent Neural Networks". *IEEE.* (2018). ([IEEE](https://ieeexplore.ieee.org/document/8016349))
 
