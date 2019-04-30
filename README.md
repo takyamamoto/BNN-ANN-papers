@@ -71,6 +71,7 @@ Methods for understanding of neural representation of ANN.
 - D. Yamins, et al. "Performance-optimized hierarchical models predict neural responses in higher visual cortex". *PNAS.* **111**(23) 8619-8624 (2014). ([PNAS](https://www.pnas.org/content/111/23/8619))
 - S. Khaligh-Razavi, N. Kriegeskorte. "Deep supervised, but not unsupervised, models may explain IT cortical representation". *PLoS Comput. Biol*. **10**(11), (2014). ([PLOS](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003915))
 - U. Güçlü, M.A.J. van Gerven. "Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Ventral Stream". *J. Neurosci.* **35**(27), (2015). ([J. Neurosci.](http://www.jneurosci.org/content/35/27/10005))
+- D. Yamins, J. DiCarlo. "Eight open questions in the computational modeling of higher sensory cortex". *Curr. Opin. Neurobiol.* **37**, 114–120 (2016). ([sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/S0959438816300022))
 - K.M. Jozwik, N. Kriegeskorte, K.R. Storrs, M. Mur. "Deep Convolutional Neural Networks Outperform Feature-Based But Not Categorical Models in Explaining Object Similarity Judgments". *Front. Psychol*. (2017). ([Front. Psychol](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01726/full))
 - C. J. Spoerer, P. McClure, N. Kriegeskorte. "Recurrent Convolutional Neural Networks: A Better Model of Biological Object Recognition". *Front. Psychol.* (2017). ([Front. Psychol](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01551/full))
 - M.N.U. Laskar, L.G.S. Giraldo, O. Schwartz. "Correspondence of Deep Neural Networks and the Brain for Visual Textures". (2018). ([arXiv](https://arxiv.org/abs/1806.02888))
@@ -85,6 +86,7 @@ Methods for understanding of neural representation of ANN.
 - I. Fruend. "Simple, biologically informed models, but not convolutional neural networks describe target detection in naturalistic images". *bioRxiv* (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/578633v1))
 - T.C. Kietzmann, *et al*. "Recurrence required to capture the dynamic computations of the human ventral visual stream". (2019). ([arXiv](https://arxiv.org/abs/1903.05946))
 - K. Qiao. *et al*. "Category decoding of visual stimuli from human brain activity using a bidirectional recurrent neural network to simulate bidirectional information flows in human visual cortices". (2019). ([arXiv](https://arxiv.org/abs/1903.07783))
+- K. Kar, J. Kubilius, K. Schmidt, E.B. Issa, J.J. DiCarlo . "Evidence that recurrent circuits are critical to the ventral stream’s execution of core object recognition behavior". *Nat. Neurosci.* (2019). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-019-0392-5)),  ([bioRxiv](https://www.biorxiv.org/content/10.1101/354753v1))
 
 #### Recursive Cortical Network (RCN)
 This is non NN model.
@@ -118,7 +120,7 @@ This is non NN model.
 - W. Roseboom, Z. Fountas, K. Nikiforou, D. Bhowmik, M. Shanahan, A. K. Seth. "Activity in perceptual classification networks as a basis for human subjective time perception". *Nat. Commun.* **10** (2019). ([Nat. Commun.](https://www.nature.com/articles/s41467-018-08194-7))
 
 ### 短期記憶課題 (short-term memory task)
-- K. Rajan, C.D.Harvey, D.W.Tank. "Recurrent Network Models of Sequence Generation and Memory". *Neuron.* **90**(1), 128-142 (2016). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627316001021?via%3Dihub#fig1))
+- K. Rajan, C.D.Harvey, D.W.Tank. "Recurrent Network Models of Sequence Generation and Memory". *Neuron.* **90**(1), 128-142 (2016). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627316001021?via%3Dihub))
 - A.E. Orhan, W.J. Ma. " A diverse range of factors affect the nature of neural representations underlying short-term memory". *Nat. Neurosci.* (2019). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-018-0314-y)), ([bioRxiv](https://www.biorxiv.org/content/10.1101/244707v3)), ([GitHub](https://github.com/eminorhan/recurrent-memory))
 
 ### 言語
