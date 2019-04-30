@@ -95,6 +95,10 @@ This is non NN model.
 #### ResNetの考察
 - Q. Liao, T. Poggio. "Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex". ([arXiv](https://arXiv.org/abs/1604.03640))
 
+#### Generating visual super stimuli
+- P. Bashivan, K. Kar, J.J DiCarlo. "Neural Population Control via Deep Image Synthesis". (2018). ([bioRxiv](https://www.biorxiv.org/content/10.1101/461525v1))
+- C.R. Ponce, et al. "Evolving super stimuli for real neurons using deep generative networks". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/516484v1))
+
 ### 聴覚野 (Auditory cortex)
 - U. Güçlü, J. Thielen, M. Hanke, M. van Gerven. "Brains on Beats". *NIPS* (2016) ([arXiv](https://arxiv.org/abs/1606.02627))
 - A.J.E. Kell,D.L.K. Yamins,E.N. Shook, S.V. Norman-Haignere, J.H.McDermott. "A Task-Optimized Neural Network Replicates Human Auditory Behavior, Predicts Brain Responses, and Reveals a Cortical Processing Hierarchy". *Neuron* **98**(3), (2018)  ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627318302502?via%3Dihub))
