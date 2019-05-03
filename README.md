@@ -29,9 +29,13 @@ Methods for understanding of neural representation of ANN.
 - I. Rafegas, M. Vanrell, L.A. Alexandre. "Understanding trained CNNs by indexing neuron selectivity". (2017). ([arXiv](https://arxiv.org/abs/1702.00382))
 - A. Nguyen, J. Yosinski, J. Clune. "Understanding Neural Networks via Feature Visualization: A survey". (2019). ([arXiv](https://arxiv.org/abs/1904.08939))
 
-#### Canonical correlation analysis (CCA)
+#### Comparing neural network representation
+##### Canonical correlation analysis (CCA)
 - M. Raghu, J. Gilmer, J. Yosinski, J. Sohl-Dickstein. "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability". *NIPS.* (2017). ([arXiv](https://arXiv.org/abs/1706.05806))
 - H. Wang, et al. "Finding the needle in high-dimensional haystack: A tutorial on canonical correlation analysis". (2018). ([arXiv](https://arxiv.org/abs/1812.02598))
+
+#####  Centered kernel alignment (CKA)
+- S. Kornblith, M. Norouzi, H. Lee, G. Hinton. "Similarity of Neural Network Representations Revisited". (2019). ([arXiv](https://arxiv.org/abs/1905.00414v1))
 
 #### Fixed point analysis for RNN
 - M.B. Ottaway, P.Y. Simard, D.H. Ballard. "Fixed point analysis for recurrent networks". *NIPS.* (1989). ([pdf](https://papers.nips.cc/paper/181-fixed-point-analysis-for-recurrent-networks.pdf))
