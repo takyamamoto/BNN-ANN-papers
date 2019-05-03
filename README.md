@@ -97,7 +97,7 @@ This is non NN model.
 
 #### Generating visual super stimuli
 - P. Bashivan, K. Kar, J.J DiCarlo. "Neural Population Control via Deep Image Synthesis". (2018). ([bioRxiv](https://www.biorxiv.org/content/10.1101/461525v1))
-- C.R. Ponce, et al. "Evolving super stimuli for real neurons using deep generative networks". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/516484v1))
+- C.R. Ponce, et al. "Evolving super stimuli for real neurons using deep generative networks". *Cell*. **177**, 999–1009 (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/516484v1)), ([Cell](https://www.cell.com/cell/fulltext/S0092-86741930391-5))
 
 ### 聴覚野 (Auditory cortex)
 - U. Güçlü, J. Thielen, M. Hanke, M. van Gerven. "Brains on Beats". *NIPS* (2016) ([arXiv](https://arxiv.org/abs/1606.02627))
@@ -176,10 +176,14 @@ This is non NN model.
 - A. Nøkland, L.H. Eidnes. "Training Neural Networks with Local Error Signals".  (2019). ([arXiv](https://arXiv.org/abs/1901.06656)) ([GitHub](https://github.com/anokland/local-loss))
 - R. Feldesh. "The Distributed Engram". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/583195v1))
 - M. Akrout, C. Wilson, P.C. Humphreys, T.Lillicrap, D. Tweed. "Deep Learning without Weight Transport". (2019). ([arXiv](https://arxiv.org/abs/1904.05391))
+- Y. Amit. "Deep Learning With Asymmetric Connections and Hebbian Updates".  *Front. Comput. Neurosci.* (2019). ([Front. Comput. Neurosci.](https://www.frontiersin.org/articles/10.3389/fncom.2019.00018/full)). ([GitHub](https://github.com/yaliamit/URFB))
 
 #### Survey
 - J. Whittington, R. Bogacz. "Theories of Error Back-Propagation in the Brain". *Trends. Cogn. Sci.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1364661319300129?via%3Dihub))
 - T.P. Lillicrap, A.Santoro. "Backpropagation through time and the brain". *Curr. Opin. Neurobiol.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0959438818302009))
+
+#### Others
+- F. Crick. "The recent excitement about neural networks". *Nat*. **337**, 129–132 (1989). ([Nat.](https://www.nature.com/articles/337129a0))
 
 ### ニューラルネットワークと脳の発達 (Development of neural networks and brains)
 - A.M. Saxe, J. L. McClelland, S. Ganguli. "A mathematical theory of semantic development in deep neural networks". (2018). ([arXiv](https://arXiv.org/abs/1810.10531))
