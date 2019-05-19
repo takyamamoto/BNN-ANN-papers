@@ -103,6 +103,9 @@ This is non NN model.
 - P. Bashivan, K. Kar, J.J DiCarlo. "Neural Population Control via Deep Image Synthesis". (2018). ([bioRxiv](https://www.biorxiv.org/content/10.1101/461525v1))
 - C.R. Ponce, et al. "Evolving super stimuli for real neurons using deep generative networks". *Cell*. **177**, 999–1009 (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/516484v1)), ([Cell](https://www.cell.com/cell/fulltext/S0092-86741930391-5))
 
+#### Visual number sense
+- K. Nasr, P. Viswanathan, A. Nieder. "Number detectors spontaneously emerge in a deep neural network designed for visual object recognition". *Sci Adv.* (2019). ([Sci.Adv.](https://advances.sciencemag.org/content/5/5/eaav7903))
+
 ### 聴覚野 (Auditory cortex)
 - U. Güçlü, J. Thielen, M. Hanke, M. van Gerven. "Brains on Beats". *NIPS* (2016) ([arXiv](https://arxiv.org/abs/1606.02627))
 - A.J.E. Kell,D.L.K. Yamins,E.N. Shook, S.V. Norman-Haignere, J.H.McDermott. "A Task-Optimized Neural Network Replicates Human Auditory Behavior, Predicts Brain Responses, and Reveals a Cortical Processing Hierarchy". *Neuron* **98**(3), (2018)  ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627318302502?via%3Dihub))
