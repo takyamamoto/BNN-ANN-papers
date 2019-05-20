@@ -68,7 +68,7 @@ Methods for understanding of neural representation of ANN.
 - P. Poirazi, T. Brannon, B.W Mel. "Pyramidal Neuron as Two-Layer Neural Network". *Neuron*. **37**(6). (2003). ([Neuron](https://www.cell.com/neuron/fulltext/S0896-62730300149-1))
 - B. David, S. Idan, L. Michael. "Single Cortical Neurons as Deep Artificial Neural Networks". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/613141v1))
 
-### 視覚 (Vision)
+### Vision
 - D. Zipser, R.A. Andersen. "A back-propagation programmed network that simulates response properties of a subset of posterior parietal neurons". *Nat.* **331**, 679–684 (1988). ([Nat.](https://www.nature.com/articles/331679a0))
 - A. Krizhevsky, I. Sutskever, G. Hinton. "ImageNet classification with deep convolutional neural networks". *NIPS* (2012). ([pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf))
   - (cf.) I. Goodfellow, Y. Bengio, A. Courville. "[Deep Learning](https://www.deeplearningbook.org/)". MIT Press. (2016) : Chapter 9.10 "The Neuroscientiﬁc Basis for ConvolutionalNetworks"
@@ -92,52 +92,51 @@ Methods for understanding of neural representation of ANN.
 - K. Qiao. *et al*. "Category decoding of visual stimuli from human brain activity using a bidirectional recurrent neural network to simulate bidirectional information flows in human visual cortices". (2019). ([arXiv](https://arxiv.org/abs/1903.07783))
 - K. Kar, J. Kubilius, K. Schmidt, E.B. Issa, J.J. DiCarlo . "Evidence that recurrent circuits are critical to the ventral stream’s execution of core object recognition behavior". *Nat. Neurosci.* (2019). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-019-0392-5)),  ([bioRxiv](https://www.biorxiv.org/content/10.1101/354753v1))
 
-#### Recursive Cortical Network (RCN)
-This is non NN model.
+#### Recursive Cortical Network (RCN; non NN model)
 - D. George, et al. "A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs". *Science* (2017). ([Science](http://science.sciencemag.org/content/358/6368/eaag2612.full)), ([GitHub](https://github.com/vicariousinc/science_rcn))
 
-#### ResNetの考察
+#### Weight shared ResNet as RNN for object recognition
 - Q. Liao, T. Poggio. "Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex". ([arXiv](https://arXiv.org/abs/1604.03640))
 
 #### Generating visual super stimuli
-- P. Bashivan, K. Kar, J.J DiCarlo. "Neural Population Control via Deep Image Synthesis". (2018). ([bioRxiv](https://www.biorxiv.org/content/10.1101/461525v1))
 - C.R. Ponce, et al. "Evolving super stimuli for real neurons using deep generative networks". *Cell*. **177**, 999–1009 (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/516484v1)), ([Cell](https://www.cell.com/cell/fulltext/S0092-86741930391-5))
+- P. Bashivan, K. Kar, J.J DiCarlo. "Neural Population Control via Deep Image Synthesis". *Science.* (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/461525v1)), ([Science](https://science.sciencemag.org/content/364/6439/eaav9436)), ([GitHub1](https://github.com/dicarlolab/npc), [GitHub2](https://github.com/dicarlolab/retinawarp))
 
 #### Visual number sense
-- K. Nasr, P. Viswanathan, A. Nieder. "Number detectors spontaneously emerge in a deep neural network designed for visual object recognition". *Sci Adv.* (2019). ([Sci.Adv.](https://advances.sciencemag.org/content/5/5/eaav7903))
+- K. Nasr, P. Viswanathan, A. Nieder. "Number detectors spontaneously emerge in a deep neural network designed for visual object recognition". *Sci. Adv.* (2019). ([Sci. Adv.](https://advances.sciencemag.org/content/5/5/eaav7903))
 
-### 聴覚野 (Auditory cortex)
+### Auditory cortex
 - U. Güçlü, J. Thielen, M. Hanke, M. van Gerven. "Brains on Beats". *NIPS* (2016) ([arXiv](https://arxiv.org/abs/1606.02627))
 - A.J.E. Kell,D.L.K. Yamins,E.N. Shook, S.V. Norman-Haignere, J.H.McDermott. "A Task-Optimized Neural Network Replicates Human Auditory Behavior, Predicts Brain Responses, and Reveals a Cortical Processing Hierarchy". *Neuron* **98**(3), (2018)  ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627318302502?via%3Dihub))
 
-### 運動野 (Motor cortex)
+### Motor cortex
 - D. Sussillo, M. Churchland, M. Kaufman, K. Shenoy. "A neural network that finds a naturalistic solution for the production of muscle activity". *Nat. Neurosci.* **18**(7), 1025–1033 (2015). ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26075643))
 
 ### Spatial coding (Place cells, Grid cells)
 - C. Cueva, X. Wei. "Emergence of grid-like representations by training recurrent neural networks to perform spatial localization". *ICLR.* (2018). ([arXiv](https://arXiv.org/abs/1803.07770))
-- A. Banino, et al. "Vector-based navigation using grid-like representations in artificial agents". *Nat.* **557**(7705), 429–433 (2018). ([pdf](https://deepmind.com/documents/201/Vector-based%20Navigation%20using%20Grid-like%20Representations%20in%20Artificial%20Agents.pdf)), ([GitHub](https://github.com/deepmind/grid-cells))
+- A. Banino, et al. "Vector-based navigation using grid-like representations in artificial agents". *Nature.* **557**(7705), 429–433 (2018). ([pdf](https://deepmind.com/documents/201/Vector-based%20Navigation%20using%20Grid-like%20Representations%20in%20Artificial%20Agents.pdf)), ([GitHub](https://github.com/deepmind/grid-cells))
 - J.C.R. Whittington. et al. "Generalisation of structural knowledge in the hippocampal-entorhinal system".  *NIPS.* (2018). ([arXiv](https://arxiv.org/abs/1805.09042))
 
 ### Rodent barrel cortex
 - C. Zhuang, J. Kubilius, M. Hartmann, D. Yamins. "Toward Goal-Driven Neural Network Models for the Rodent Whisker-Trigeminal System". *NIPS.* (2017). ([arXiv](https://arxiv.org/abs/1706.07555))
 
-### 認知タスク (Cognitive task)
+### Cognitive task
 -  H.F. Song, G.R. Yang, X.J. Wang. "Reward-based training of recurrent neural networks for cognitive and value-based tasks". *eLife*. **6** (2017). ([eLife](https://elifesciences.org/articles/21492))
 - G.R. Yang, M.R. Joglekar, H.F. Song, W.T. Newsome, X.J. Wang. "Task representations in neural networks trained to perform many cognitive tasks". *Nat. Neurosci.* (2019). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-018-0310-2)) ([GitHub](https://github.com/gyyang/multitask))
 
-### 時間認知 (Time perception)
+### Time perception
 - N.F. Hardy, V. Goudar, J.L. Romero-Sosa, D.V. Buonomano. "A model of temporal scaling correctly predicts that motor timing improves with speed". *Nat. Commun.* **9** (2018). ([Nat. Commun.](https://www.nature.com/articles/s41467-018-07161-6))
 - J. Wang, D. Narain, E.A. Hosseini, M. Jazayeri. "Flexible timing by temporal scaling of cortical responses". *Nat. Neurosci.* **21** 102–110(2018). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-017-0028-6))
 - W. Roseboom, Z. Fountas, K. Nikiforou, D. Bhowmik, M. Shanahan, A. K. Seth. "Activity in perceptual classification networks as a basis for human subjective time perception". *Nat. Commun.* **10** (2019). ([Nat. Commun.](https://www.nature.com/articles/s41467-018-08194-7))
 
-### 短期記憶課題 (short-term memory task)
+### Short-term memory task
 - K. Rajan, C.D.Harvey, D.W.Tank. "Recurrent Network Models of Sequence Generation and Memory". *Neuron.* **90**(1), 128-142 (2016). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627316001021?via%3Dihub))
 - A.E. Orhan, W.J. Ma. " A diverse range of factors affect the nature of neural representations underlying short-term memory". *Nat. Neurosci.* (2019). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-018-0314-y)), ([bioRxiv](https://www.biorxiv.org/content/10.1101/244707v3)), ([GitHub](https://github.com/eminorhan/recurrent-memory))
 
-### 言語
+### Language
 - J. Chiang, *et al*. "Neural and computational mechanisms of analogical reasoning". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/596726v1))  
 
-#### 言語学習 (Language learning)
+#### Language learning
 - B.M. Lake, T. Linzen, M. Baroni. "Human few-shot learning of compositional instructions". (2019). ([arXiv](https://arxiv.org/abs/1901.04587))
 - A. Alamia, V. Gauducheau, D. Paisios, R. VanRullen. "Which Neural Network Architecture matches Human Behavior in Artificial Grammar Learning?". (2019). ([arXiv](https://arxiv.org/abs/1902.04861))
 
