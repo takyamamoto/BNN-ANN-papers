@@ -20,7 +20,7 @@
 - D. Silva, P. Cruz, A. Gutierrez. "Are the long-short term memory and convolution neural net biological system?". *KICS.* **4**(2), 100-106 (2018). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S2405959518300249))
 - N. Kriegeskorte, T. Golan. "Neural network models and deep learning - a primer for biologists". (2019). ([arXiv](https://arxiv.org/abs/1902.04704))
 
-### ニューラルネットワークの解析手法 (Analysis methods for neural networks)
+### Analysis methods for neural networks
 Methods for understanding of neural representation of ANN.
 #### Survey
 - D. Barrett, A. Morcos, J. Macke. "Analyzing biological and artificial neural networks: challenges with opportunities for synergy?". (2018). ([arXiv](https://arXiv.org/abs/1810.13373))
@@ -49,13 +49,14 @@ Methods for understanding of neural representation of ANN.
 #### Others
 - M. Haesemeyer, A. Schier, F. Engert. "Convergent temperature representations in artificial and biological neural networks". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/08/29/390435))
 
-### 認知計算神経科学 (Cognitive computational neuroscience)
+### Cognitive computational neuroscience
+認知計算神経科学.
 - N. Kriegeskorte, P. Douglas. "Cognitive computational neuroscience". *Nat. Neurosci.* **21**(9), 1148-1160 (2018). ([arXiv](https://arXiv.org/abs/1807.11819))
 - J.S. Bowers. "Parallel Distributed Processing Theory in the Age of Deep Networks". *Trends. Cogn. Sci.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1364661317302164?via%3Dihub))
 - R.M. Cichy, D. Kaiser. "Deep Neural Networks as Scientific Models". *Trends. Cogn. Sci.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1364661319300348?via%3Dihub))
 
-### 計算論的精神医学 (Computational psychiatry)
-(この分野はもっと論文ありますが、追えてません)
+### Computational psychiatry
+計算論的精神医学. この分野はもっと論文ありますが、追えてません.
 - R.E. Hoffman, U. Grasemann, R. Gueorguieva, D. Quinlan, D. Lane, R. Miikkulainen. "Using computational patients to evaluate illness mechanisms in schizophrenia". *Biol. Psychiatry.* **69**(10), 997–1005 (2011). ([PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3105006/))
 
 ## Deep neural network as models of the Brain
@@ -141,7 +142,7 @@ Methods for understanding of neural representation of ANN.
 - A. Alamia, V. Gauducheau, D. Paisios, R. VanRullen. "Which Neural Network Architecture matches Human Behavior in Artificial Grammar Learning?". (2019). ([arXiv](https://arxiv.org/abs/1902.04861))
 
 
-## 神経科学に基づいたアーキテクチャ (Neural network architecture based on neuroscience)
+## Neural network architecture based on neuroscience
 ニューラルネットワークのアーキテクチャの中で神経科学の知見を取り入れたもの.
 
 ### Survey
@@ -162,15 +163,15 @@ Methods for understanding of neural representation of ANN.
 #### Flexible normalization
 - L. Gonzalo, S. Giraldo, O. Schwartz. "Integrating Flexible Normalization into Mid-Level Representations of Deep Convolutional Neural Networks". (2018). ([arXiv](https://arxiv.org/abs/1806.01823))
 
-## 強化学習 (Reinforcement Learning)
+## Reinforcement Learning
 大事な分野なのに最近の研究を追えていません
 - N. Haber, D. Mrowca, L. Fei-Fei, D. Yamins. "Learning to Play with Intrinsically-Motivated Self-Aware Agents". *NIPS.* (2018). ([arXiv](https://arxiv.org/abs/1802.07442))
 - J. X. Wang, et al. "Prefrontal cortex as a meta-reinforcement learning system". *Nat. Neurosci.* (2018). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-018-0147-8)), ([bioRxiv](https://www.biorxiv.org/content/10.1101/295964v2)),  ([blog](https://deepmind.com/blog/prefrontal-cortex-meta-reinforcement-learning-system/))
 - E.O. Neftci, B.B. Averbeck. "Reinforcement learning in artificial and biological systems". *Nat. Mach. Intell.* (2019). ([Nat. Mach. Intell.](https://www.nature.com/articles/s42256-019-0025-4))
 
-## 学習と発達 (Learning and development)
+## Learning and development
 
-### 生物学的妥当性のある学習法則 (Biologically plausible learning algorithms)
+### Biologically plausible learning algorithms
 ニューラルネットワークの強力な学習アルゴリズムである誤差逆伝搬法(Back propagation)は生物学的に妥当である(biological plausible)とは言えない。そこで、生体内でも可能そうな学習方法が考案されている（本当に可能かは議論の余地あり）。
 - Y. Bengio, D. Lee, J. Bornschein, T. Mesnard, Z. Lin. "Towards Biologically Plausible Deep Learning". (2015). ([arXiv](https://arXiv.org/abs/1502.04156))
 - T. Lillicrap, D. Cownden, D. Tweed, C. Akerman. "Random synaptic feedback weights support error backpropagation for deep learning". *Nat. Commun.* **7** (2016). ([Nat. Commun.](https://www.nature.com/articles/ncomms13276))
@@ -191,7 +192,7 @@ Methods for understanding of neural representation of ANN.
 #### Others
 - F. Crick. "The recent excitement about neural networks". *Nat*. **337**, 129–132 (1989). ([Nat.](https://www.nature.com/articles/337129a0))
 
-### ニューラルネットワークと脳の発達 (Development of neural networks and brains)
+### Development of neural networks and brains
 - A.M. Saxe, J. L. McClelland, S. Ganguli. "A mathematical theory of semantic development in deep neural networks". (2018). ([arXiv](https://arXiv.org/abs/1810.10531))
 - J. Shen, M. D. Petkova, F. Liu, C. Tang. "Toward deciphering developmental patterning with deep neural network". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/08/09/374439))
 
