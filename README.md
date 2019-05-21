@@ -190,11 +190,11 @@ Methods for understanding of neural representation of ANN.
 - T.P. Lillicrap, A.Santoro. "Backpropagation through time and the brain". *Curr. Opin. Neurobiol.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0959438818302009))
 
 #### Others
-- F. Crick. "The recent excitement about neural networks". *Nat*. **337**, 129–132 (1989). ([Nat.](https://www.nature.com/articles/337129a0))
+- F. Crick. "The recent excitement about neural networks". *Nature*. **337**, 129–132 (1989). ([Nat.](https://www.nature.com/articles/337129a0))
 
 ### Development of neural networks and brains
-- A.M. Saxe, J. L. McClelland, S. Ganguli. "A mathematical theory of semantic development in deep neural networks". (2018). ([arXiv](https://arXiv.org/abs/1810.10531))
 - J. Shen, M. D. Petkova, F. Liu, C. Tang. "Toward deciphering developmental patterning with deep neural network". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/08/09/374439))
+- A.M. Saxe, J.L. McClelland, S. Ganguli. "A mathematical theory of semantic development in deep neural networks". *PNAS*. (2019). ([arXiv](https://arXiv.org/abs/1810.10531)). ([PNAS](https://www.pnas.org/content/early/2019/05/16/1820226116))
 
 ### A Critique of Pure Learning
 - A. Zador. "A Critique of Pure Learning: What Artificial Neural Networks can Learn from Animal Brains". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/582643v1))
