@@ -135,7 +135,8 @@ Methods for understanding of neural representation of ANN.
 - A.E. Orhan, W.J. Ma. " A diverse range of factors affect the nature of neural representations underlying short-term memory". *Nat. Neurosci.* (2019). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-018-0314-y)), ([bioRxiv](https://www.biorxiv.org/content/10.1101/244707v3)), ([GitHub](https://github.com/eminorhan/recurrent-memory))
 
 ### Language
-- J. Chiang, *et al*. "Neural and computational mechanisms of analogical reasoning". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/596726v1))  
+- J. Chiang, *et al*. "Neural and computational mechanisms of analogical reasoning". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/596726v1))
+- S. Na, Y.J. Choe, D. Lee, G. Kim. "Discovery of Natural Language Concepts in Individual Units of CNNs". *ICLR.* (2019). ([OpenReview](https://openreview.net/forum?id=S1EERs09YQ)), ([arXiv](https://arxiv.org/abs/1902.07249))
 
 #### Language learning
 - B.M. Lake, T. Linzen, M. Baroni. "Human few-shot learning of compositional instructions". (2019). ([arXiv](https://arxiv.org/abs/1901.04587))
