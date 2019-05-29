@@ -92,6 +92,7 @@ Methods for understanding of neural representation of ANN.
 - T.C. Kietzmann, *et al*. "Recurrence required to capture the dynamic computations of the human ventral visual stream". (2019). ([arXiv](https://arxiv.org/abs/1903.05946))
 - K. Qiao. *et al*. "Category decoding of visual stimuli from human brain activity using a bidirectional recurrent neural network to simulate bidirectional information flows in human visual cortices". (2019). ([arXiv](https://arxiv.org/abs/1903.07783))
 - K. Kar, J. Kubilius, K. Schmidt, E.B. Issa, J.J. DiCarlo . "Evidence that recurrent circuits are critical to the ventral stream’s execution of core object recognition behavior". *Nat. Neurosci.* (2019). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-019-0392-5)),  ([bioRxiv](https://www.biorxiv.org/content/10.1101/354753v1))
+- A.S. Ecker. et al. "A rotation-equivariant convolutional neural network model of primary visual cortex". *ICLR* (2019). ([OpenReview](https://openreview.net/forum?id=H1fU8iAqKX)). ([arXiv](https://arxiv.org/abs/1809.10504))
 
 #### Recursive Cortical Network (RCN; non NN model)
 - D. George, et al. "A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs". *Science* (2017). ([Science](http://science.sciencemag.org/content/358/6368/eaag2612.full)), ([GitHub](https://github.com/vicariousinc/science_rcn))
@@ -210,3 +211,4 @@ Methods for understanding of neural representation of ANN.
 - M.S. Goldman. "Memory without Feedback in a Neural Network". *Neuron* (2009). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627308010830?via%3Dihub))
 - R. Yuste. "From the neuron doctrine to neural networks". *Nat. Rev. Neurosci.* 16, 487–497 (2015). ([Nat. Rev. Neurosci.](https://www.nature.com/articles/nrn3962))
 - S. Saxena, J.P. Cunningham. "Towards the neural population doctrine". *Curr. Opin. Neurobiol.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0959438818300990))
+-  D.J. Heeger. "Theory of cortical function". *PNAS*. **114**(8), (2017). ([PNAS](https://www.pnas.org/content/114/8/1773))
