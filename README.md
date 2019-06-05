@@ -186,6 +186,7 @@ Methods for understanding of neural representation of ANN.
 - R. Feldesh. "The Distributed Engram". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/583195v1))
 - M. Akrout, C. Wilson, P.C. Humphreys, T.Lillicrap, D. Tweed. "Deep Learning without Weight Transport". (2019). ([arXiv](https://arxiv.org/abs/1904.05391))
 - Y. Amit. "Deep Learning With Asymmetric Connections and Hebbian Updates".  *Front. Comput. Neurosci.* (2019). ([Front. Comput. Neurosci.](https://www.frontiersin.org/articles/10.3389/fncom.2019.00018/full)). ([GitHub](https://github.com/yaliamit/URFB))
+- B.J. Lansdell, P. Prakash, K.P. Kording. "Learning to solve the credit assignment problem". (2019). ([arXiv](https://arxiv.org/abs/1906.00889))
 
 #### Survey
 - J. Whittington, R. Bogacz. "Theories of Error Back-Propagation in the Brain". *Trends. Cogn. Sci.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1364661319300129?via%3Dihub))
@@ -197,6 +198,9 @@ Methods for understanding of neural representation of ANN.
 ### Development of neural networks and brains
 - J. Shen, M. D. Petkova, F. Liu, C. Tang. "Toward deciphering developmental patterning with deep neural network". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/08/09/374439))
 - A.M. Saxe, J.L. McClelland, S. Ganguli. "A mathematical theory of semantic development in deep neural networks". *PNAS*. (2019). ([arXiv](https://arXiv.org/abs/1810.10531)). ([PNAS](https://www.pnas.org/content/early/2019/05/16/1820226116))
+
+### Few shot Learning
+- A. Cortese, B.D. Martino, M. Kawato. "The neural and cognitive architecture for learning from a small sample".  *Curr. Opin. Neurobiol.* **55**, 133–141 (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0959438818301077))
 
 ### A Critique of Pure Learning
 - A. Zador. "A Critique of Pure Learning: What Artificial Neural Networks can Learn from Animal Brains". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/582643v1))
