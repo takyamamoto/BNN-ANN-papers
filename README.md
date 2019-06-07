@@ -198,6 +198,7 @@ Methods for understanding of neural representation of ANN.
 ### Development of neural networks and brains
 - J. Shen, M. D. Petkova, F. Liu, C. Tang. "Toward deciphering developmental patterning with deep neural network". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/08/09/374439))
 - A.M. Saxe, J.L. McClelland, S. Ganguli. "A mathematical theory of semantic development in deep neural networks". *PNAS*. (2019). ([arXiv](https://arXiv.org/abs/1810.10531)). ([PNAS](https://www.pnas.org/content/early/2019/05/16/1820226116))
+- D.V. Raman, A.P. Rotondo, T. O’Leary. "Fundamental bounds on learning performance in neural circuits". *PNAS*. (2019). ([PNAS](https://www.pnas.org/content/116/21/10537))
 
 ### Few shot Learning
 - A. Cortese, B.D. Martino, M. Kawato. "The neural and cognitive architecture for learning from a small sample".  *Curr. Opin. Neurobiol.* **55**, 133–141 (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0959438818301077))
