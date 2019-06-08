@@ -37,6 +37,9 @@ Methods for understanding of neural representation of ANN.
 #####  Centered kernel alignment (CKA)
 - S. Kornblith, M. Norouzi, H. Lee, G. Hinton. "Similarity of Neural Network Representations Revisited". (2019). ([arXiv](https://arxiv.org/abs/1905.00414v1))
 
+##### Representational stability analysis (ReStA)
+- S. Abnar, L. Beinborn, R. Choenni, W. Zuidema. "Blackbox meets blackbox: Representational Similarity and Stability Analysis of Neural Language Models and Brains". (2019). ([arXiv](https://arxiv.org/abs/1906.01539))
+
 #### Fixed point analysis for RNN
 - M.B. Ottaway, P.Y. Simard, D.H. Ballard. "Fixed point analysis for recurrent networks". *NIPS.* (1989). ([pdf](https://papers.nips.cc/paper/181-fixed-point-analysis-for-recurrent-networks.pdf))
 - D. Sussillo, O. Barak. "Opening the black box: low-dimensional dynamics in high-dimensional recurrent neural networks". *Neural Comput.* **25**(3), 626-649 (2013). ([MIT Press](https://www.mitpressjournals.org/doi/full/10.1162/NECO_a_00409?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed)), ([Jupyter notebook](https://github.com/google-research/computation-thru-dynamics/blob/master/notebooks/Fixed%20Point%20Finder%20Tutorial.ipynb))
