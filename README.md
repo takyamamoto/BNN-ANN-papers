@@ -137,6 +137,7 @@ Methods for understanding of neural representation of ANN.
 ### Short-term memory task
 - K. Rajan, C.D.Harvey, D.W.Tank. "Recurrent Network Models of Sequence Generation and Memory". *Neuron.* **90**(1), 128-142 (2016). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627316001021?via%3Dihub))
 - A.E. Orhan, W.J. Ma. " A diverse range of factors affect the nature of neural representations underlying short-term memory". *Nat. Neurosci.* (2019). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-018-0314-y)), ([bioRxiv](https://www.biorxiv.org/content/10.1101/244707v3)), ([GitHub](https://github.com/eminorhan/recurrent-memory))
+- N.Y. Masse. et al. "Circuit mechanisms for the maintenance and manipulation of information in working memory". *Nat. Neurosci.* (2019). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-019-0414-3)), ([bioRxiv](https://www.biorxiv.org/content/10.1101/305714v2))
 
 ### Language
 - J. Chiang, *et al*. "Neural and computational mechanisms of analogical reasoning". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/596726v1))
