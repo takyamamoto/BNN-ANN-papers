@@ -156,9 +156,10 @@ Methods for understanding of neural representation of ANN.
 ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627317305093))
 
 ### PredNet (Predictive coding network)
-- W. Lotter, G. Kreiman, D. Cox. "Deep predictive coding networks for video prediction and unsupervised learning". *ICLR.* (2017). ([arXiv](https://arXiv.org/abs/1605.08104))
+- W. Lotter, G. Kreiman, D. Cox. "Deep predictive coding networks for video prediction and unsupervised learning". *ICLR.* (2017). ([arXiv](https://arXiv.org/abs/1605.08104), [GitHub](https://coxlab.github.io/prednet/))
 - W. Lotter, G. Kreiman, D. Cox. "A neural network trained to predict future video frames mimics critical properties of biological neuronal responses and perception". (2018). ([arXiv](https://arXiv.org/abs/1805.10734))  
 - E. Watanabe, A. Kitaoka, K. Sakamoto, M. Yasugi, K. Tanaka. "Illusory Motion Reproduced by Deep Neural Networks Trained for Prediction". *Front. Psychol.* (2018). ([Front. Psychol.](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00345/full))
+- M. Fonseca. "Unsupervised predictive coding models may explain visual brain representation". (2019). ([arXiv](https://arxiv.org/abs/1907.00441), [GitHub](https://github.com/thefonseca/algonauts))
 
 #### subLSTM
 - R. Costa, Y. Assael, B. Shillingford, N. Freitas, T. Vogels. "Cortical microcircuits as gated-recurrent neural networks". *NIPS.* (2017). ([arXiv](https://arXiv.org/abs/1711.02448))
