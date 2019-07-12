@@ -100,14 +100,14 @@ Methods for understanding of neural representation of ANN.
 - E.J. Ward. "Exploring Perceptual Illusions in Deep Neural Networks". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/687905v1))
 
 #### Recursive Cortical Network (RCN; non NN model)
-- D. George, et al. "A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs". *Science* (2017). ([Science](http://science.sciencemag.org/content/358/6368/eaag2612.full)), ([GitHub](https://github.com/vicariousinc/science_rcn))
+- D. George, et al. "A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs". *Science* (2017). ([Science](http://science.sciencemag.org/content/358/6368/eaag2612.full), [GitHub](https://github.com/vicariousinc/science_rcn))
 
 #### Weight shared ResNet as RNN for object recognition
 - Q. Liao, T. Poggio. "Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex". ([arXiv](https://arXiv.org/abs/1604.03640))
 
 #### Generating visual super stimuli
-- C.R. Ponce, et al. "Evolving super stimuli for real neurons using deep generative networks". *Cell*. **177**, 999–1009 (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/516484v1)), ([Cell](https://www.cell.com/cell/fulltext/S0092-86741930391-5))
-- P. Bashivan, K. Kar, J.J DiCarlo. "Neural Population Control via Deep Image Synthesis". *Science.* (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/461525v1)), ([Science](https://science.sciencemag.org/content/364/6439/eaav9436)), ([GitHub1](https://github.com/dicarlolab/npc), [GitHub2](https://github.com/dicarlolab/retinawarp))
+- C.R. Ponce, et al. "Evolving super stimuli for real neurons using deep generative networks". *Cell*. **177**, 999–1009 (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/516484v1), [Cell](https://www.cell.com/cell/fulltext/S0092-86741930391-5))
+- P. Bashivan, K. Kar, J.J DiCarlo. "Neural Population Control via Deep Image Synthesis". *Science.* (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/461525v1), [Science](https://science.sciencemag.org/content/364/6439/eaav9436), [GitHub1](https://github.com/dicarlolab/npc), [GitHub2](https://github.com/dicarlolab/retinawarp))
 
 #### Visual number sense
 - K. Nasr, P. Viswanathan, A. Nieder. "Number detectors spontaneously emerge in a deep neural network designed for visual object recognition". *Sci. Adv.* (2019). ([Sci. Adv.](https://advances.sciencemag.org/content/5/5/eaav7903))
@@ -115,14 +115,14 @@ Methods for understanding of neural representation of ANN.
 ### Auditory cortex
 - U. Güçlü, J. Thielen, M. Hanke, M. van Gerven. "Brains on Beats". *NIPS* (2016) ([arXiv](https://arxiv.org/abs/1606.02627))
 - A.J.E. Kell,D.L.K. Yamins,E.N. Shook, S.V. Norman-Haignere, J.H.McDermott. "A Task-Optimized Neural Network Replicates Human Auditory Behavior, Predicts Brain Responses, and Reveals a Cortical Processing Hierarchy". *Neuron* **98**(3), (2018)  ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627318302502?via%3Dihub))
-- T. Koumura, H. Terashima, S. Furukawa. "Cascaded Tuning to Amplitude Modulation for Natural Sound Recognition". *J. Neurosci.* **39**(28), 5517-5533 (2019). ([J. Neurosci.](https://www.jneurosci.org/content/39/28/5517), [GitHub](https://github.com/cycentum/cascaded-am-tuning-for-sound-recognition))
+- T. Koumura, H. Terashima, S. Furukawa. "Cascaded Tuning to Amplitude Modulation for Natural Sound Recognition". *J. Neurosci.* **39**(28), 5517-5533 (2019). ([J. Neurosci.](https://www.jneurosci.org/content/39/28/5517), [bioRxiv](https://www.biorxiv.org/content/10.1101/308999v2), [GitHub](https://github.com/cycentum/cascaded-am-tuning-for-sound-recognition))
 
 ### Motor cortex
 - D. Sussillo, M. Churchland, M. Kaufman, K. Shenoy. "A neural network that finds a naturalistic solution for the production of muscle activity". *Nat. Neurosci.* **18**(7), 1025–1033 (2015). ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26075643))
 
 ### Spatial coding (Place cells, Grid cells)
 - C. Cueva, X. Wei. "Emergence of grid-like representations by training recurrent neural networks to perform spatial localization". *ICLR.* (2018). ([arXiv](https://arXiv.org/abs/1803.07770))
-- A. Banino, et al. "Vector-based navigation using grid-like representations in artificial agents". *Nature.* **557**(7705), 429–433 (2018). ([pdf](https://deepmind.com/documents/201/Vector-based%20Navigation%20using%20Grid-like%20Representations%20in%20Artificial%20Agents.pdf)), ([GitHub](https://github.com/deepmind/grid-cells))
+- A. Banino, et al. "Vector-based navigation using grid-like representations in artificial agents". *Nature.* **557**(7705), 429–433 (2018). ([pdf](https://deepmind.com/documents/201/Vector-based%20Navigation%20using%20Grid-like%20Representations%20in%20Artificial%20Agents.pdf), [GitHub](https://github.com/deepmind/grid-cells))
 - J.C.R. Whittington. et al. "Generalisation of structural knowledge in the hippocampal-entorhinal system".  *NIPS.* (2018). ([arXiv](https://arxiv.org/abs/1805.09042))
 
 ### Rodent barrel cortex
