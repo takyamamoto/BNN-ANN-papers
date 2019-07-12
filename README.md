@@ -115,6 +115,7 @@ Methods for understanding of neural representation of ANN.
 ### Auditory cortex
 - U. Güçlü, J. Thielen, M. Hanke, M. van Gerven. "Brains on Beats". *NIPS* (2016) ([arXiv](https://arxiv.org/abs/1606.02627))
 - A.J.E. Kell,D.L.K. Yamins,E.N. Shook, S.V. Norman-Haignere, J.H.McDermott. "A Task-Optimized Neural Network Replicates Human Auditory Behavior, Predicts Brain Responses, and Reveals a Cortical Processing Hierarchy". *Neuron* **98**(3), (2018)  ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627318302502?via%3Dihub))
+- T. Koumura, H. Terashima, S. Furukawa. "Cascaded Tuning to Amplitude Modulation for Natural Sound Recognition". *J. Neurosci.* **39**(28), 5517-5533 (2019). ([J. Neurosci.](https://www.jneurosci.org/content/39/28/5517), [GitHub](https://github.com/cycentum/cascaded-am-tuning-for-sound-recognition))
 
 ### Motor cortex
 - D. Sussillo, M. Churchland, M. Kaufman, K. Shenoy. "A neural network that finds a naturalistic solution for the production of muscle activity". *Nat. Neurosci.* **18**(7), 1025–1033 (2015). ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26075643))
