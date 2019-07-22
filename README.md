@@ -1,16 +1,5 @@
 # Papers : Biological and Artificial Neural Networks
-ニューラルネットワークの論文のなかで計算神経科学と関係しているもの（の中で **個人的に** 気になったもの）を集めました。重要なのに記載できてない論文がある場合や内容に誤りがある場合、解説を追加していただける場合はIssue または Pull reqからお願いします。
-
-<!--
-- [ニューラルネットワークと計算神経科学 (Neural Networks and computational neuroscience)](##ニューラルネットワークと計算神経科学)
-  - ([解説](https://github.com/takyamamoto/BNN-ANN-papers/blob/master/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A9%E3%83%AB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%A8%E8%A8%88%E7%AE%97%E7%A5%9E%E7%B5%8C%E7%A7%91%E5%AD%A6.md))
-- [ニューラルネットワークによる神経表現の再現 (Emergence of neural representation in artificial neural networks)](##ニューラルネットによる神経表現の再現)
-  - (解説 [[視覚](https://github.com/takyamamoto/BNN-ANN-papers/blob/master/%E8%84%B3%E3%81%AE%E7%A5%9E%E7%B5%8C%E8%A1%A8%E7%8F%BE%E3%81%AE%E5%86%8D%E7%8F%BE_%E8%A6%96%E8%A6%9A.md)] / [[視覚以外](https://github.com/takyamamoto/BNN-ANN-papers/blob/master/%E8%84%B3%E3%81%AE%E7%A5%9E%E7%B5%8C%E8%A1%A8%E7%8F%BE%E3%81%AE%E5%86%8D%E7%8F%BE_%E8%A6%96%E8%A6%9A%E4%BB%A5%E5%A4%96.md)])
-- [神経科学に基づいたアーキテクチャ (Neural network architecture based on neuroscience)](##神経科学に基づいたアーキテクチャ)
-  - ([解説](https://github.com/takyamamoto/BNN-ANN-papers/blob/master/%E7%A5%9E%E7%B5%8C%E7%A7%91%E5%AD%A6%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%84%E3%81%9F%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3.md))
-- [学習と発達 (Learning and development)](##学習と発達)
-- [Brain-computer interface](##Brain-computer interface)
--->
+ニューラルネットワークの論文のなかで計算神経科学と関係しているもの（の中で **個人的に** 気になったもの）を集めました。重要なのに記載できてない論文がある場合や内容に誤りがある場合はIssue または Pull reqからお願いします。
 
 ## Artificial neural networks and computational neuroscience
 #### Survey
@@ -19,6 +8,9 @@
 - O. Barak. "Recurrent neural networks as versatile tools of neuroscience research". *Curr. Opin. Neurobiol.* (2017). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0959438817300429?via%3Dihub))
 - D. Silva, P. Cruz, A. Gutierrez. "Are the long-short term memory and convolution neural net biological system?". *KICS.* **4**(2), 100-106 (2018). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S2405959518300249))
 - N. Kriegeskorte, T. Golan. "Neural network models and deep learning - a primer for biologists". (2019). ([arXiv](https://arxiv.org/abs/1902.04704))
+
+#### Issue
+- T.P. Lillicrap, K.P. Kording. "What does it mean to understand a neural network?". (2019). ([arXiv](https://arxiv.org/abs/1907.06374))
 
 ### Analysis methods for neural networks
 Methods for understanding of neural representation of ANN.
@@ -29,7 +21,9 @@ Methods for understanding of neural representation of ANN.
 - I. Rafegas, M. Vanrell, L.A. Alexandre. "Understanding trained CNNs by indexing neuron selectivity". (2017). ([arXiv](https://arxiv.org/abs/1702.00382))
 - A. Nguyen, J. Yosinski, J. Clune. "Understanding Neural Networks via Feature Visualization: A survey". (2019). ([arXiv](https://arxiv.org/abs/1904.08939))
 
-#### Comparing neural network representation
+#### Comparing the representations of neural networks with those of the Brains
+- N. Kriegeskorte, J. Diedrichsen. "Peeling the Onion of Brain Representations". *Annu. Rev. Neurosci*. (2019). ([Annu Rev Neurosci](https://www.annualreviews.org/doi/10.1146/annurev-neuro-080317-061906))
+
 ##### Canonical correlation analysis (CCA)
 - M. Raghu, J. Gilmer, J. Yosinski, J. Sohl-Dickstein. "SVCCA: Singular Vector Canonical Correlation Analysis for Deep Learning Dynamics and Interpretability". *NIPS.* (2017). ([arXiv](https://arXiv.org/abs/1706.05806))
 - H. Wang, et al. "Finding the needle in high-dimensional haystack: A tutorial on canonical correlation analysis". (2018). ([arXiv](https://arxiv.org/abs/1812.02598))
@@ -53,13 +47,12 @@ Methods for understanding of neural representation of ANN.
 - M. Haesemeyer, A. Schier, F. Engert. "Convergent temperature representations in artificial and biological neural networks". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/08/29/390435))
 
 ### Cognitive computational neuroscience
-認知計算神経科学.
 - N. Kriegeskorte, P. Douglas. "Cognitive computational neuroscience". *Nat. Neurosci.* **21**(9), 1148-1160 (2018). ([arXiv](https://arXiv.org/abs/1807.11819))
 - J.S. Bowers. "Parallel Distributed Processing Theory in the Age of Deep Networks". *Trends. Cogn. Sci.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1364661317302164?via%3Dihub))
 - R.M. Cichy, D. Kaiser. "Deep Neural Networks as Scientific Models". *Trends. Cogn. Sci.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1364661319300348?via%3Dihub))
 
 ### Computational psychiatry
-計算論的精神医学. この分野はもっと論文ありますが、追えてません.
+I haven't been able to completely survey papers in this field.
 - R.E. Hoffman, U. Grasemann, R. Gueorguieva, D. Quinlan, D. Lane, R. Miikkulainen. "Using computational patients to evaluate illness mechanisms in schizophrenia". *Biol. Psychiatry.* **69**(10), 997–1005 (2011). ([PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3105006/))
 
 ## Deep neural network as models of the Brain
@@ -152,8 +145,6 @@ Methods for understanding of neural representation of ANN.
 
 
 ## Neural network architecture based on neuroscience
-ニューラルネットワークのアーキテクチャの中で神経科学の知見を取り入れたもの.
-
 ### Survey
 - D. Hassabis, D. Kumaran, C. Summerfield, M. Botvinick. "Neuroscience-Inspired Artificial Intelligence". *Neuron.* **95**(2), 245-258 (2017).
 ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627317305093))
@@ -174,7 +165,7 @@ Methods for understanding of neural representation of ANN.
 - L. Gonzalo, S. Giraldo, O. Schwartz. "Integrating Flexible Normalization into Mid-Level Representations of Deep Convolutional Neural Networks". (2018). ([arXiv](https://arxiv.org/abs/1806.01823))
 
 ## Reinforcement Learning
-大事な分野なのに最近の研究を追えていません
+I haven't been able to completely survey papers in this field.
 - N. Haber, D. Mrowca, L. Fei-Fei, D. Yamins. "Learning to Play with Intrinsically-Motivated Self-Aware Agents". *NIPS.* (2018). ([arXiv](https://arxiv.org/abs/1802.07442))
 - J. X. Wang, et al. "Prefrontal cortex as a meta-reinforcement learning system". *Nat. Neurosci.* (2018). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-018-0147-8)), ([bioRxiv](https://www.biorxiv.org/content/10.1101/295964v2)),  ([blog](https://deepmind.com/blog/prefrontal-cortex-meta-reinforcement-learning-system/))
 - M. Botvinick. et al. "Reinforcement Learning, Fast and Slow". *Trends. Cogn. Sci.* (2019). ([Trends. Cogn. Sci.](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-66131930061-0))
@@ -226,3 +217,4 @@ Methods for understanding of neural representation of ANN.
 - R. Yuste. "From the neuron doctrine to neural networks". *Nat. Rev. Neurosci.* 16, 487–497 (2015). ([Nat. Rev. Neurosci.](https://www.nature.com/articles/nrn3962))
 - S. Saxena, J.P. Cunningham. "Towards the neural population doctrine". *Curr. Opin. Neurobiol.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0959438818300990))
 -  D.J. Heeger. "Theory of cortical function". *PNAS*. **114**(8), (2017). ([PNAS](https://www.pnas.org/content/114/8/1773))
+- C.C. Chow, Y. Karimipanah. "Before and beyond the Wilson-Cowan equations". (2019). ([arXiv](https://arxiv.org/abs/1907.07821))
