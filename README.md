@@ -1,5 +1,5 @@
 # Papers : Biological and Artificial Neural Networks
-ニューラルネットワークの論文のなかで計算神経科学と関係しているもの（の中で **個人的に** 気になったもの）を集めました。重要なのに記載できてない論文がある場合や内容に誤りがある場合はIssue または Pull reqからお願いします。
+I have collected the papers of Neural Networks which related to computational neuroscience **personally**.
 
 ## Artificial neural networks and computational neuroscience
 #### Survey
@@ -56,7 +56,7 @@ I haven't been able to completely survey papers in this field.
 - R.E. Hoffman, U. Grasemann, R. Gueorguieva, D. Quinlan, D. Lane, R. Miikkulainen. "Using computational patients to evaluate illness mechanisms in schizophrenia". *Biol. Psychiatry.* **69**(10), 997–1005 (2011). ([PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3105006/))
 
 ## Deep neural network as models of the Brain
-脳の神経表現の理解は難しい。ニューラルネットワークに特定のタスクを学習（特定の損失関数に対して最適化）させると、脳の神経表現と同じ表現を獲得する場合がある。このとき、間接的に脳の神経表現の目的を知ることができる(Whyの解決手法)。
+Understanding the neural representation of the brain is difficult. Neural networks learn specific tasks (or be optimized for a specific loss function), and (sometimes) can get the same representation as the brain. Then, we can indirectly know the purpose of neural representation in the brain.
 
 ### Survey
 - A.J.E. Kell, J.H. McDermott. "Deep neural network models of sensory systems: windows onto the role of task constraints". *Curr. Opin. Neurobiol.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0959438818302034))
@@ -178,25 +178,32 @@ I haven't been able to completely survey papers in this field.
 ## Learning and development
 
 ### Biologically plausible learning algorithms
-ニューラルネットワークの強力な学習アルゴリズムである誤差逆伝搬法(Back propagation)は生物学的に妥当である(biological plausible)とは言えない。そこで、生体内でも可能そうな学習方法が考案されている（本当に可能かは議論の余地あり）。
-- Y. Bengio, D. Lee, J. Bornschein, T. Mesnard, Z. Lin. "Towards Biologically Plausible Deep Learning". (2015). ([arXiv](https://arXiv.org/abs/1502.04156))
-- T. Lillicrap, D. Cownden, D. Tweed, C. Akerman. "Random synaptic feedback weights support error backpropagation for deep learning". *Nat. Commun.* **7** (2016). ([Nat. Commun.](https://www.nature.com/articles/ncomms13276))
-- M. Jaderberg, et al. "Decoupled Neural Interfaces using Synthetic Gradients" (2016). ([arXiv](https://arxiv.org/abs/1608.05343))
-- B. Scellier, Y. Bengio. "Equilibrium Propagation: Bridging the Gap Between Energy-Based Models and Backpropagation". *Front. Comput. Neurosci.* **11**(24), (2017). ([arXiv](https://arXiv.org/abs/1602.05179))
-- N. Ke, A. Goyal, O. Bilaniuk, J. Binas, M. Mozer, C. Pal, Y. Bengio. "Sparse Attentive Backtracking: Temporal CreditAssignment Through Reminding". *NIPS.* (2018). ([arXiv](https://arXiv.org/abs/1809.03702))
-- S. Bartunov, A. Santoro, B. Richards, L. Marris, G. Hinton, T. Lillicrap. "Assessing the Scalability of Biologically-Motivated Deep Learning Algorithms and Architectures". *NIPS.* (2018). ([arXiv](https://arXiv.org/abs/1807.04587))
-- J. Sacramento, R. P. Costa, Y. Bengio, W. Senn. "Dendritic cortical microcircuits approximate the backpropagation algorithm". *NIPS.* (2018). ([arXiv](https://arXiv.org/abs/1810.11393))
-- A. Nøkland, L.H. Eidnes. "Training Neural Networks with Local Error Signals".  (2019). ([arXiv](https://arXiv.org/abs/1901.06656)) ([GitHub](https://github.com/anokland/local-loss))
-- R. Feldesh. "The Distributed Engram". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/583195v1))
-- M. Akrout, C. Wilson, P.C. Humphreys, T.Lillicrap, D. Tweed. "Deep Learning without Weight Transport". (2019). ([arXiv](https://arxiv.org/abs/1904.05391))
-- Y. Amit. "Deep Learning With Asymmetric Connections and Hebbian Updates".  *Front. Comput. Neurosci.* (2019). ([Front. Comput. Neurosci.](https://www.frontiersin.org/articles/10.3389/fncom.2019.00018/full)). ([GitHub](https://github.com/yaliamit/URFB))
-- B.J. Lansdell, P. Prakash, K.P. Kording. "Learning to solve the credit assignment problem". (2019). ([arXiv](https://arxiv.org/abs/1906.00889))
-
 #### Survey
 - J. Whittington, R. Bogacz. "Theories of Error Back-Propagation in the Brain". *Trends. Cogn. Sci.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1364661319300129?via%3Dihub))
 - T.P. Lillicrap, A.Santoro. "Backpropagation through time and the brain". *Curr. Opin. Neurobiol.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0959438818302009))
 
+#### Equilibrium Propagation
+- Y. Bengio, D. Lee, J. Bornschein, T. Mesnard, Z. Lin. "Towards Biologically Plausible Deep Learning". (2015). ([arXiv](https://arXiv.org/abs/1502.04156))
+- B. Scellier, Y. Bengio. "Equilibrium Propagation: Bridging the Gap Between Energy-Based Models and Backpropagation". *Front. Comput. Neurosci.* **11**(24), (2017). ([arXiv](https://arXiv.org/abs/1602.05179))
+- J. Sacramento, R. P. Costa, Y. Bengio, W. Senn. "Dendritic cortical microcircuits approximate the backpropagation algorithm". *NIPS.* (2018). ([arXiv](https://arXiv.org/abs/1810.11393))
+
+#### Feedback alignment
+- T. Lillicrap, D. Cownden, D. Tweed, C. Akerman. "Random synaptic feedback weights support error backpropagation for deep learning". *Nat. Commun.* **7** (2016). ([Nat. Commun.](https://www.nature.com/articles/ncomms13276))
+- A. Nøkland. "Direct Feedback Alignment Provides Learning in Deep Neural Networks". (2016). ([arXiv](https://arxiv.org/abs/1609.01596))
+- M. Akrout, C. Wilson, P.C. Humphreys, T.Lillicrap, D. Tweed. "Deep Learning without Weight Transport". (2019). ([arXiv](https://arxiv.org/abs/1904.05391))
+- B.J. Lansdell, P. Prakash, K.P. Kording. "Learning to solve the credit assignment problem". (2019). ([arXiv](https://arxiv.org/abs/1906.00889))
+
+#### Local error signal
+- A. Nøkland, L.H. Eidnes. "Training Neural Networks with Local Error Signals".  (2019). ([arXiv](https://arXiv.org/abs/1901.06656)) ([GitHub](https://github.com/anokland/local-loss))
+
 #### Others
+- M. Jaderberg, et al. "Decoupled Neural Interfaces using Synthetic Gradients" (2016). ([arXiv](https://arxiv.org/abs/1608.05343))
+- N. Ke, A. Goyal, O. Bilaniuk, J. Binas, M. Mozer, C. Pal, Y. Bengio. "Sparse Attentive Backtracking: Temporal CreditAssignment Through Reminding". *NIPS.* (2018). ([arXiv](https://arXiv.org/abs/1809.03702))
+- S. Bartunov, A. Santoro, B. Richards, L. Marris, G. Hinton, T. Lillicrap. "Assessing the Scalability of Biologically-Motivated Deep Learning Algorithms and Architectures". *NIPS.* (2018). ([arXiv](https://arXiv.org/abs/1807.04587))
+- R. Feldesh. "The Distributed Engram". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/583195v1))
+- Y. Amit. "Deep Learning With Asymmetric Connections and Hebbian Updates".  *Front. Comput. Neurosci.* (2019). ([Front. Comput. Neurosci.](https://www.frontiersin.org/articles/10.3389/fncom.2019.00018/full)). ([GitHub](https://github.com/yaliamit/URFB))
+
+#### Issue
 - F. Crick. "The recent excitement about neural networks". *Nature*. **337**, 129–132 (1989). ([Nat.](https://www.nature.com/articles/337129a0))
 
 ### Development of neural networks and brains
