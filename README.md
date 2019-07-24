@@ -1,5 +1,5 @@
 # Papers : Biological and Artificial Neural Networks
-I have collected the papers of Neural Networks which related to computational neuroscience **personally**.
+I have collected the papers of **Artificial Neural Networks** which related to **Neuroscience** (especially Computational Neuroscience). If there are papers which is not listed, I would appreciate if you could tell me from **Issue**.
 
 ## Artificial neural networks and computational neuroscience
 #### Survey
