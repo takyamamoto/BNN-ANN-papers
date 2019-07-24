@@ -22,6 +22,8 @@ Methods for understanding of neural representation of ANN.
 - A. Nguyen, J. Yosinski, J. Clune. "Understanding Neural Networks via Feature Visualization: A survey". (2019). ([arXiv](https://arxiv.org/abs/1904.08939))
 
 #### Comparing the representations of neural networks with those of the Brains
+
+##### Representational similarity analysis (RSA)
 - N. Kriegeskorte, J. Diedrichsen. "Peeling the Onion of Brain Representations". *Annu. Rev. Neurosci*. (2019). ([Annu Rev Neurosci](https://www.annualreviews.org/doi/10.1146/annurev-neuro-080317-061906))
 
 ##### Canonical correlation analysis (CCA)
