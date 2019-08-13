@@ -107,6 +107,7 @@ Also see the papers associated with [PredNet](#PredNet-Predictive-coding-network
 #### Generating visual super stimuli
 - C.R. Ponce, et al. "Evolving super stimuli for real neurons using deep generative networks". *Cell*. **177**, 999–1009 (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/516484v1), [Cell](https://www.cell.com/cell/fulltext/S0092-86741930391-5))
 - P. Bashivan, K. Kar, J.J DiCarlo. "Neural Population Control via Deep Image Synthesis". *Science.* (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/461525v1), [Science](https://science.sciencemag.org/content/364/6439/eaav9436), [GitHub1](https://github.com/dicarlolab/npc), [GitHub2](https://github.com/dicarlolab/retinawarp))
+- A.P. Batista. K.P. Kording. "A Deep Dive to Illuminate V4 Neurons". *Trends. Cogn. Sci.* (2019). ([Trends. Cogn. Sci.](https://www.cell.com/trends/neurosciences/fulltext/S0166-22361930111-0))
 
 #### Visual number sense
 - K. Nasr, P. Viswanathan, A. Nieder. "Number detectors spontaneously emerge in a deep neural network designed for visual object recognition". *Sci. Adv.* (2019). ([Sci. Adv.](https://advances.sciencemag.org/content/5/5/eaav7903))
