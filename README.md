@@ -119,6 +119,7 @@ Also see the papers associated with [PredNet](#PredNet-Predictive-coding-network
 
 ### Motor cortex
 - D. Sussillo, M. Churchland, M. Kaufman, K. Shenoy. "A neural network that finds a naturalistic solution for the production of muscle activity". *Nat. Neurosci.* **18**(7), 1025–1033 (2015). ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26075643))
+- J.A. Michaels, et al. "A neural network model of flexible grasp movement generation". (2019). ([arXiv](https://www.biorxiv.org/content/10.1101/742189v1))
 
 ### Spatial coding (Place cells, Grid cells)
 - C. Cueva, X. Wei. "Emergence of grid-like representations by training recurrent neural networks to perform spatial localization". *ICLR.* (2018). ([arXiv](https://arXiv.org/abs/1803.07770))
