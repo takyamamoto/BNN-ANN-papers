@@ -170,8 +170,9 @@ Also see the papers associated with [PredNet](#PredNet-Predictive-coding-network
 #### Activation functions
 - G.S. Bhumbra. "Deep learning improved by biological activation functions". (2018). ([arXiv](https://arxiv.org/abs/1804.11237))
 
-#### Flexible normalization
+#### Normalization
 - L. Gonzalo, S. Giraldo, O. Schwartz. "Integrating Flexible Normalization into Mid-Level Representations of Deep Convolutional Neural Networks". (2018). ([arXiv](https://arxiv.org/abs/1806.01823))
+- M.F. Günthner, et al. "Learning Divisive Normalization in Primary Visual Cortex". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/767285v1))
 
 ## Reinforcement Learning
 I haven't been able to completely survey papers in this field.
