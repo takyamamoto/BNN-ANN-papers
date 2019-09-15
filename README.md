@@ -200,6 +200,7 @@ I haven't been able to completely survey papers in this field.
 - B.J. Lansdell, P. Prakash, K.P. Kording. "Learning to solve the credit assignment problem". (2019). ([arXiv](https://arxiv.org/abs/1906.00889))
 
 #### Local error signal
+- H. Mostafa, V. Ramesh, G.Cauwenberghs. "Deep Supervised Learning Using Local Errors". *Front. Neurosci.* (2018). ([Front. Neurosci.](https://www.frontiersin.org/articles/10.3389/fnins.2018.00608/full)).
 - A. Nøkland, L.H. Eidnes. "Training Neural Networks with Local Error Signals".  (2019). ([arXiv](https://arXiv.org/abs/1901.06656)) ([GitHub](https://github.com/anokland/local-loss))
 
 #### Others
