@@ -91,8 +91,9 @@ Understanding the neural representation of the brain is difficult. Neural networ
 - K. Qiao. *et al*. "Category decoding of visual stimuli from human brain activity using a bidirectional recurrent neural network to simulate bidirectional information flows in human visual cortices". (2019). ([arXiv](https://arxiv.org/abs/1903.07783))
 - S.A. Cadena, et al. "Deep convolutional models improve predictions of macaque V1 responses to natural images". *PLOS Comput. Biol.* (2019). ([PLOS](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006897), [bioRxiv](https://www.biorxiv.org/content/10.1101/201764v2))
 - K. Kar, J. Kubilius, K. Schmidt, E.B. Issa, J.J. DiCarlo . "Evidence that recurrent circuits are critical to the ventral stream’s execution of core object recognition behavior". *Nat. Neurosci.* (2019). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-019-0392-5),  [bioRxiv](https://www.biorxiv.org/content/10.1101/354753v1))
-- A.S. Ecker. et al. "A rotation-equivariant convolutional neural network model of primary visual cortex". *ICLR* (2019). ([OpenReview](https://openreview.net/forum?id=H1fU8iAqKX), [arXiv](https://arxiv.org/abs/1809.10504))
-- A. Doerig. et al. "Capsule Networks but not Classic CNNs Explain Global Visual Processing". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/747394v1))
+- A.S. Ecker, et al. "A rotation-equivariant convolutional neural network model of primary visual cortex". *ICLR* (2019). ([OpenReview](https://openreview.net/forum?id=H1fU8iAqKX), [arXiv](https://arxiv.org/abs/1809.10504))
+- A. Doerig, et al. "Capsule Networks but not Classic CNNs Explain Global Visual Processing". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/747394v1))
+- A.S. Benjamin, et al. "Hue tuning curves in V4 change with visual context". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/780478v1))
 
 #### Visual illusion
 Also see the papers associated with [PredNet](#PredNet-Predictive-coding-network).
