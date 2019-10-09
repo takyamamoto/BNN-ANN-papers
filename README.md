@@ -45,9 +45,6 @@ Methods for understanding of neural representation of ANN.
 #### Ablation analysis
 - A.S. Morcos, D.G.T. Barrett, N.C. Rabinowitz, M. Botvinick. "On the importance of single directions for generalization". *ICLR.* (2018). ([arXiv](https://arxiv.org/abs/1803.06959))
 
-#### Others
-- M. Haesemeyer, A. Schier, F. Engert. "Convergent temperature representations in artificial and biological neural networks". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/08/29/390435))
-
 ### Cognitive computational neuroscience
 - N. Kriegeskorte, P. Douglas. "Cognitive computational neuroscience". *Nat. Neurosci.* **21**(9), 1148-1160 (2018). ([arXiv](https://arXiv.org/abs/1807.11819))
 - J.S. Bowers. "Parallel Distributed Processing Theory in the Age of Deep Networks". *Trends. Cogn. Sci.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1364661317302164?via%3Dihub))
@@ -68,7 +65,7 @@ Understanding the neural representation of the brain is difficult. Neural networ
 - B. David, S. Idan, L. Michael. "Single Cortical Neurons as Deep Artificial Neural Networks". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/613141v1))
 
 ### Vision
-- D. Zipser, R.A. Andersen. "A back-propagation programmed network that simulates response properties of a subset of posterior parietal neurons". *Nat.* **331**, 679–684 (1988). ([Nat.](https://www.nature.com/articles/331679a0))
+- D. Zipser, R.A. Andersen. "A back-propagation programmed network that simulates response properties of a subset of posterior parietal neurons". *Nature.* **331**, 679–684 (1988). ([Nature.](https://www.nature.com/articles/331679a0))
 - A. Krizhevsky, I. Sutskever, G. Hinton. "ImageNet classification with deep convolutional neural networks". *NIPS* (2012). ([pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf))
   - (cf.) I. Goodfellow, Y. Bengio, A. Courville. "[Deep Learning](https://www.deeplearningbook.org/)". MIT Press. (2016) : Chapter 9.10 "The Neuroscientiﬁc Basis for ConvolutionalNetworks"
 - D. Yamins, et al. "Performance-optimized hierarchical models predict neural responses in higher visual cortex". *PNAS.* **111**(23) 8619-8624 (2014). ([PNAS](https://www.pnas.org/content/111/23/8619))
@@ -76,24 +73,29 @@ Understanding the neural representation of the brain is difficult. Neural networ
 - U. Güçlü, M.A.J. van Gerven. "Deep Neural Networks Reveal a Gradient in the Complexity of Neural Representations across the Ventral Stream". *J. Neurosci.* **35**(27), (2015). ([J. Neurosci.](http://www.jneurosci.org/content/35/27/10005))
 - D. Yamins, J. DiCarlo. "Eight open questions in the computational modeling of higher sensory cortex". *Curr. Opin. Neurobiol.* **37**, 114–120 (2016). ([sciencedirect](https://www.sciencedirect.com/science/article/abs/pii/S0959438816300022))
 - K.M. Jozwik, N. Kriegeskorte, K.R. Storrs, M. Mur. "Deep Convolutional Neural Networks Outperform Feature-Based But Not Categorical Models in Explaining Object Similarity Judgments". *Front. Psychol*. (2017). ([Front. Psychol](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01726/full))
-- C. J. Spoerer, P. McClure, N. Kriegeskorte. "Recurrent Convolutional Neural Networks: A Better Model of Biological Object Recognition". *Front. Psychol.* (2017). ([Front. Psychol](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01551/full))
 - M.N.U. Laskar, L.G.S. Giraldo, O. Schwartz. "Correspondence of Deep Neural Networks and the Brain for Visual Textures". (2018). ([arXiv](https://arxiv.org/abs/1806.02888))
 - I. Kuzovkin, et al. "Activations of Deep Convolutional Neural Network are Aligned with Gamma Band Activity of Human Visual Cortex". *Commun. Biol.* **1** (2018). ([Commun. Biol.](https://www.nature.com/articles/s42003-018-0110-y))
 - M. Schrimpf, et al. "Brain-Score: Which Artificial Neural Network for Object Recognition is most Brain-Like?". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/09/05/407007))
 - E. Kim, D. Hannan, G. Kenyon. "Deep Sparse Coding for Invariant Multimodal Halle Berry Neurons". *CVPR.* (2018). ([arXiv](https://arXiv.org/abs/1711.07998))
 - S. Ocko, J. Lindsey, S. Ganguli, S. Deny. "The emergence of multiple retinal cell types through efficient coding of natural movies". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/10/31/458737))
 - Q. Yan, et al. "Revealing Fine Structures of the Retinal Receptive Field by Deep Learning Networks". (2018). ([arXiv](https://arXiv.org/abs/1811.02290))
-- A. Nayebi, D. Bear, J. Kubilius, K. Kar, S. Ganguli, D. Sussillo, J. DiCarlo, D. Yamins. "Task-Driven Convolutional Recurrent Models of the Visual System". (2018). ([arXiv](https://arXiv.org/abs/1807.00053), [GitHub](https://github.com/neuroailab/tnn))
 - J. Lindsey, S. Ocko, S. Ganguli, S. Deny. "A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs". (2019). ([arXiv](https://arXiv.org/abs/1901.00945))
 - J. Ukita, T. Yoshida, K. Ohki. "Characterisation of nonlinear receptive fields of visual neurons by convolutional neural network". *Sci.Rep.* (2019). ([Sci.Rep.](https://www.nature.com/articles/s41598-019-40535-4))
 - I. Fruend. "Simple, biologically informed models, but not convolutional neural networks describe target detection in naturalistic images". *bioRxiv* (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/578633v1))
-- T.C. Kietzmann, *et al*. "Recurrence required to capture the dynamic computations of the human ventral visual stream". (2019). ([arXiv](https://arxiv.org/abs/1903.05946))
-- K. Qiao. *et al*. "Category decoding of visual stimuli from human brain activity using a bidirectional recurrent neural network to simulate bidirectional information flows in human visual cortices". (2019). ([arXiv](https://arxiv.org/abs/1903.07783))
-- S.A. Cadena, et al. "Deep convolutional models improve predictions of macaque V1 responses to natural images". *PLOS Comput. Biol.* (2019). ([PLOS](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006897), [bioRxiv](https://www.biorxiv.org/content/10.1101/201764v2))
-- K. Kar, J. Kubilius, K. Schmidt, E.B. Issa, J.J. DiCarlo . "Evidence that recurrent circuits are critical to the ventral stream’s execution of core object recognition behavior". *Nat. Neurosci.* (2019). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-019-0392-5),  [bioRxiv](https://www.biorxiv.org/content/10.1101/354753v1))
-- A.S. Ecker, et al. "A rotation-equivariant convolutional neural network model of primary visual cortex". *ICLR* (2019). ([OpenReview](https://openreview.net/forum?id=H1fU8iAqKX), [arXiv](https://arxiv.org/abs/1809.10504))
 - A. Doerig, et al. "Capsule Networks but not Classic CNNs Explain Global Visual Processing". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/747394v1))
 - A.S. Benjamin, et al. "Hue tuning curves in V4 change with visual context". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/780478v1))
+
+#### Recurrent networks for object recognition
+- C. J. Spoerer, P. McClure, N. Kriegeskorte. "Recurrent Convolutional Neural Networks: A Better Model of Biological Object Recognition". *Front. Psychol.* (2017). ([Front. Psychol](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01551/full))
+- A. Nayebi, D. Bear, J. Kubilius, K. Kar, S. Ganguli, D. Sussillo, J. DiCarlo, D. Yamins. "Task-Driven Convolutional Recurrent Models of the Visual System". (2018). ([arXiv](https://arXiv.org/abs/1807.00053), [GitHub](https://github.com/neuroailab/tnn))
+- T.C. Kietzmann, et al. "Recurrence required to capture the dynamic computations of the human ventral visual stream". (2019). ([arXiv](https://arxiv.org/abs/1903.05946))
+- K. Qiao. et al. "Category decoding of visual stimuli from human brain activity using a bidirectional recurrent neural network to simulate bidirectional information flows in human visual cortices". (2019). ([arXiv](https://arxiv.org/abs/1903.07783))
+- K. Kar, J. Kubilius, K. Schmidt, E.B. Issa, J.J. DiCarlo . "Evidence that recurrent circuits are critical to the ventral stream’s execution of core object recognition behavior". *Nat. Neurosci.* (2019). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-019-0392-5),  [bioRxiv](https://www.biorxiv.org/content/10.1101/354753v1))
+- T.C. Kietzmann, C.J. Spoerer, L.K.A. Sörensen, R.M. Cichy, O.Hauk, N. Kriegeskorte, "Recurrence is required to capture the representational dynamics of the human visual system".  *PNAS.* (2019). ([PNAS](https://www.pnas.org/content/early/2019/10/04/1905544116))
+
+#### Primary visual cortex (V1)
+- S.A. Cadena, et al. "Deep convolutional models improve predictions of macaque V1 responses to natural images". *PLOS Comput. Biol.* (2019). ([PLOS](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006897), [bioRxiv](https://www.biorxiv.org/content/10.1101/201764v2))
+- A.S. Ecker, et al. "A rotation-equivariant convolutional neural network model of primary visual cortex". *ICLR* (2019). ([OpenReview](https://openreview.net/forum?id=H1fU8iAqKX), [arXiv](https://arxiv.org/abs/1809.10504))
 
 #### Visual illusion
 Also see the papers associated with [PredNet](#PredNet-Predictive-coding-network).
@@ -131,6 +133,9 @@ Also see the papers associated with [PredNet](#PredNet-Predictive-coding-network
 ### Rodent barrel cortex
 - C. Zhuang, J. Kubilius, M. Hartmann, D. Yamins. "Toward Goal-Driven Neural Network Models for the Rodent Whisker-Trigeminal System". *NIPS.* (2017). ([arXiv](https://arxiv.org/abs/1706.07555))
 
+### Convergent Temperature Representations
+- M. Haesemeyer, A. Schier, F. Engert. "Convergent temperature representations in artificial and biological neural networks". *Neuron*. (2019). ([bioRxiv](https://www.biorxiv.org/content/early/2018/08/29/390435)), ([Neuron](https://www.cell.com/neuron/fulltext/S0896-62731930601-4))
+
 ### Cognitive task
 -  H.F. Song, G.R. Yang, X.J. Wang. "Reward-based training of recurrent neural networks for cognitive and value-based tasks". *eLife*. **6** (2017). ([eLife](https://elifesciences.org/articles/21492))
 - G.R. Yang, M.R. Joglekar, H.F. Song, W.T. Newsome, X.J. Wang. "Task representations in neural networks trained to perform many cognitive tasks". *Nat. Neurosci.* (2019). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-018-0310-2)) ([GitHub](https://github.com/gyyang/multitask))
@@ -146,13 +151,12 @@ Also see the papers associated with [PredNet](#PredNet-Predictive-coding-network
 - N.Y. Masse. et al. "Circuit mechanisms for the maintenance and manipulation of information in working memory". *Nat. Neurosci.* (2019). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-019-0414-3)), ([bioRxiv](https://www.biorxiv.org/content/10.1101/305714v2))
 
 ### Language
-- J. Chiang, *et al*. "Neural and computational mechanisms of analogical reasoning". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/596726v1))
+- J. Chiang, et al. "Neural and computational mechanisms of analogical reasoning". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/596726v1))
 - S. Na, Y.J. Choe, D. Lee, G. Kim. "Discovery of Natural Language Concepts in Individual Units of CNNs". *ICLR.* (2019). ([OpenReview](https://openreview.net/forum?id=S1EERs09YQ)), ([arXiv](https://arxiv.org/abs/1902.07249))
 
 #### Language learning
 - B.M. Lake, T. Linzen, M. Baroni. "Human few-shot learning of compositional instructions". (2019). ([arXiv](https://arxiv.org/abs/1901.04587))
 - A. Alamia, V. Gauducheau, D. Paisios, R. VanRullen. "Which Neural Network Architecture matches Human Behavior in Artificial Grammar Learning?". (2019). ([arXiv](https://arxiv.org/abs/1902.04861))
-
 
 ## Neural network architecture based on neuroscience
 ### Survey
