@@ -7,7 +7,14 @@ I have collected the papers of **Artificial Neural Networks** which related to *
 - A. Marblestone, G. Wayne, K. Kording. "Toward an integration of deep learning and neuroscience". (2016). ([arXiv](https://arXiv.org/abs/1606.03813))
 - O. Barak. "Recurrent neural networks as versatile tools of neuroscience research". *Curr. Opin. Neurobiol.* (2017). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0959438817300429?via%3Dihub))
 - D. Silva, P. Cruz, A. Gutierrez. "Are the long-short term memory and convolution neural net biological system?". *KICS.* **4**(2), 100-106 (2018). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S2405959518300249))
+- N. Kriegeskorte, P. Douglas. "Cognitive computational neuroscience". *Nat. Neurosci.* **21**(9), 1148-1160 (2018). ([arXiv](https://arXiv.org/abs/1807.11819))
 - N. Kriegeskorte, T. Golan. "Neural network models and deep learning - a primer for biologists". (2019). ([arXiv](https://arxiv.org/abs/1902.04704))
+- K.R. Storrs, N. Kriegeskorte. "Deep Learning for Cognitive Neuroscience". (2019). ([arXiv](https://arxiv.org/abs/1903.01458))
+- T.C. Kietzmann, P. McClure, N. Kriegeskorte. "Deep Neural Networks in Computational Neuroscience".  *Oxford Research Encyclopaedia of Neuroscience*. (2019). ([Oxford](https://oxfordre.com/neuroscience/view/10.1093/acrefore/9780190264086.001.0001/acrefore-9780190264086-e-46), [bioRxiv](https://www.biorxiv.org/content/10.1101/133504v2)))
+- J.S. Bowers. "Parallel Distributed Processing Theory in the Age of Deep Networks". *Trends. Cogn. Sci.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1364661317302164?via%3Dihub))
+- R.M. Cichy, D. Kaiser. "Deep Neural Networks as Scientific Models". *Trends. Cogn. Sci.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1364661319300348?via%3Dihub))
+- S. Musall, A.E. Urai, D. Sussillo, A.K. Churchland. "Harnessing behavioral diversity to understand neural computations for cognition". *Curr. Opin. Neurobiol.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0959438819300285))
+- B.A. Richards, T.P. Lillicrap, et al., "A deep learning framework for neuroscience". *Nat. Neurosci.* (2019). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-019-0520-2))
 
 #### Issue
 - T.P. Lillicrap, K.P. Kording. "What does it mean to understand a neural network?". (2019). ([arXiv](https://arxiv.org/abs/1907.06374))
@@ -38,17 +45,12 @@ Methods for understanding of neural representation of ANN.
 
 #### Fixed point analysis for RNN
 - M.B. Ottaway, P.Y. Simard, D.H. Ballard. "Fixed point analysis for recurrent networks". *NIPS.* (1989). ([pdf](https://papers.nips.cc/paper/181-fixed-point-analysis-for-recurrent-networks.pdf))
-- D. Sussillo, O. Barak. "Opening the black box: low-dimensional dynamics in high-dimensional recurrent neural networks". *Neural Comput.* **25**(3), 626-649 (2013). ([MIT Press](https://www.mitpressjournals.org/doi/full/10.1162/NECO_a_00409?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed)), ([Jupyter notebook](https://github.com/google-research/computation-thru-dynamics/blob/master/notebooks/Fixed%20Point%20Finder%20Tutorial.ipynb))
-- M.D. Golub, D. Sussillo. "FixedPointFinder: A Tensorflow toolbox for identifying and characterizing fixed points in recurrent neural networks". *JOSS.* (2018). ([pdf](https://web.stanford.edu/~mgolub/publications/GolubJOSS2018.pdf)), ([GitHub](https://github.com/mattgolub/fixed-point-finder))
+- D. Sussillo, O. Barak. "Opening the black box: low-dimensional dynamics in high-dimensional recurrent neural networks". *Neural Comput.* **25**(3), 626-649 (2013). ([MIT Press](https://www.mitpressjournals.org/doi/full/10.1162/NECO_a_00409?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed), [Jupyter notebook](https://github.com/google-research/computation-thru-dynamics/blob/master/notebooks/Fixed%20Point%20Finder%20Tutorial.ipynb))
+- M.D. Golub, D. Sussillo. "FixedPointFinder: A Tensorflow toolbox for identifying and characterizing fixed points in recurrent neural networks". *JOSS.* (2018). ([pdf](https://web.stanford.edu/~mgolub/publications/GolubJOSS2018.pdf), [GitHub](https://github.com/mattgolub/fixed-point-finder))
 - G.E. Katz, J.A. Reggia. "Using Directional Fibers to Locate Fixed Points of Recurrent Neural Networks". *IEEE.* (2018). ([IEEE](https://ieeexplore.ieee.org/document/8016349))
 
 #### Ablation analysis
 - A.S. Morcos, D.G.T. Barrett, N.C. Rabinowitz, M. Botvinick. "On the importance of single directions for generalization". *ICLR.* (2018). ([arXiv](https://arxiv.org/abs/1803.06959))
-
-### Cognitive computational neuroscience
-- N. Kriegeskorte, P. Douglas. "Cognitive computational neuroscience". *Nat. Neurosci.* **21**(9), 1148-1160 (2018). ([arXiv](https://arXiv.org/abs/1807.11819))
-- J.S. Bowers. "Parallel Distributed Processing Theory in the Age of Deep Networks". *Trends. Cogn. Sci.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1364661317302164?via%3Dihub))
-- R.M. Cichy, D. Kaiser. "Deep Neural Networks as Scientific Models". *Trends. Cogn. Sci.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1364661319300348?via%3Dihub))
 
 ### Computational psychiatry
 I haven't been able to completely survey papers in this field.
@@ -79,8 +81,8 @@ Understanding the neural representation of the brain is difficult. Neural networ
 - E. Kim, D. Hannan, G. Kenyon. "Deep Sparse Coding for Invariant Multimodal Halle Berry Neurons". *CVPR.* (2018). ([arXiv](https://arXiv.org/abs/1711.07998))
 - S. Ocko, J. Lindsey, S. Ganguli, S. Deny. "The emergence of multiple retinal cell types through efficient coding of natural movies". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/10/31/458737))
 - Q. Yan, et al. "Revealing Fine Structures of the Retinal Receptive Field by Deep Learning Networks". (2018). ([arXiv](https://arXiv.org/abs/1811.02290))
+- H. Wen, J. Shi, W. Chen, Z. Liu. "Deep Residual Network Predicts Cortical Representation and Organization of Visual Features for Rapid Categorization". *Sci.Rep.* (2018). ([Sci.Rep.](https://www.nature.com/articles/s41598-018-22160-9))
 - J. Lindsey, S. Ocko, S. Ganguli, S. Deny. "A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs". (2019). ([arXiv](https://arXiv.org/abs/1901.00945))
-- J. Ukita, T. Yoshida, K. Ohki. "Characterisation of nonlinear receptive fields of visual neurons by convolutional neural network". *Sci.Rep.* (2019). ([Sci.Rep.](https://www.nature.com/articles/s41598-019-40535-4))
 - I. Fruend. "Simple, biologically informed models, but not convolutional neural networks describe target detection in naturalistic images". *bioRxiv* (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/578633v1))
 - A. Doerig, et al. "Capsule Networks but not Classic CNNs Explain Global Visual Processing". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/747394v1))
 - A.S. Benjamin, et al. "Hue tuning curves in V4 change with visual context". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/780478v1))
@@ -109,6 +111,7 @@ Also see the papers associated with [PredNet](#PredNet-Predictive-coding-network
 - Q. Liao, T. Poggio. "Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex". ([arXiv](https://arXiv.org/abs/1604.03640))
 
 #### Generating visual super stimuli
+- J. Ukita, T. Yoshida, K. Ohki. "Characterisation of nonlinear receptive fields of visual neurons by convolutional neural network". *Sci.Rep.* (2019). ([Sci.Rep.](https://www.nature.com/articles/s41598-019-40535-4))
 - C.R. Ponce, et al. "Evolving super stimuli for real neurons using deep generative networks". *Cell*. **177**, 999–1009 (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/516484v1), [Cell](https://www.cell.com/cell/fulltext/S0092-86741930391-5))
 - P. Bashivan, K. Kar, J.J DiCarlo. "Neural Population Control via Deep Image Synthesis". *Science.* (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/461525v1), [Science](https://science.sciencemag.org/content/364/6439/eaav9436), [GitHub1](https://github.com/dicarlolab/npc), [GitHub2](https://github.com/dicarlolab/retinawarp))
 - A.P. Batista. K.P. Kording. "A Deep Dive to Illuminate V4 Neurons". *Trends. Cogn. Sci.* (2019). ([Trends. Cogn. Sci.](https://www.cell.com/trends/neurosciences/fulltext/S0166-22361930111-0))
@@ -124,6 +127,7 @@ Also see the papers associated with [PredNet](#PredNet-Predictive-coding-network
 ### Motor cortex
 - D. Sussillo, M. Churchland, M. Kaufman, K. Shenoy. "A neural network that finds a naturalistic solution for the production of muscle activity". *Nat. Neurosci.* **18**(7), 1025–1033 (2015). ([PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26075643))
 - J.A. Michaels, et al. "A neural network model of flexible grasp movement generation". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/742189v1))
+- J. Merel, M. Botvinick, G. Wayne. "Hierarchical motor control in mammals and machines". *Nat. Commun.* (2019). ([Nat.Commun.](https://www.nature.com/articles/s41467-019-13239-6))
 
 ### Spatial coding (Place cells, Grid cells)
 - C. Cueva, X. Wei. "Emergence of grid-like representations by training recurrent neural networks to perform spatial localization". *ICLR.* (2018). ([arXiv](https://arXiv.org/abs/1803.07770))
@@ -144,6 +148,7 @@ Also see the papers associated with [PredNet](#PredNet-Predictive-coding-network
 - N.F. Hardy, V. Goudar, J.L. Romero-Sosa, D.V. Buonomano. "A model of temporal scaling correctly predicts that motor timing improves with speed". *Nat. Commun.* **9** (2018). ([Nat. Commun.](https://www.nature.com/articles/s41467-018-07161-6))
 - J. Wang, D. Narain, E.A. Hosseini, M. Jazayeri. "Flexible timing by temporal scaling of cortical responses". *Nat. Neurosci.* **21** 102–110(2018). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-017-0028-6))
 - W. Roseboom, Z. Fountas, K. Nikiforou, D. Bhowmik, M. Shanahan, A. K. Seth. "Activity in perceptual classification networks as a basis for human subjective time perception". *Nat. Commun.* **10** (2019). ([Nat. Commun.](https://www.nature.com/articles/s41467-018-08194-7))
+- Z. Bi, C. Zhou. "Time representation in neural network models trained to perform interval timing tasks". (2019). ([arXiv](https://arxiv.org/abs/1910.05546)).
 
 ### Short-term memory task
 - K. Rajan, C.D.Harvey, D.W.Tank. "Recurrent Network Models of Sequence Generation and Memory". *Neuron.* **90**(1), 128-142 (2016). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627316001021?via%3Dihub))
@@ -214,20 +219,22 @@ I haven't been able to completely survey papers in this field.
 - S. Bartunov, A. Santoro, B. Richards, L. Marris, G. Hinton, T. Lillicrap. "Assessing the Scalability of Biologically-Motivated Deep Learning Algorithms and Architectures". *NIPS.* (2018). ([arXiv](https://arXiv.org/abs/1807.04587))
 - R. Feldesh. "The Distributed Engram". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/583195v1))
 - Y. Amit. "Deep Learning With Asymmetric Connections and Hebbian Updates".  *Front. Comput. Neurosci.* (2019). ([Front. Comput. Neurosci.](https://www.frontiersin.org/articles/10.3389/fncom.2019.00018/full)). ([GitHub](https://github.com/yaliamit/URFB))
+- T. Mesnard, G. Vignoud, J. Sacramento, W. Senn, Y. Bengio "Ghost Units Yield Biologically Plausible Backprop in Deep Neural Networks". (2019). ([arXiv](https://arxiv.org/abs/1911.08585))
 
 #### Issue
 - F. Crick. "The recent excitement about neural networks". *Nature*. **337**, 129–132 (1989). ([Nat.](https://www.nature.com/articles/337129a0))
 
-### Development of neural networks and brains
+### Learning dynamics of neural networks and brains
 - J. Shen, M. D. Petkova, F. Liu, C. Tang. "Toward deciphering developmental patterning with deep neural network". (2018). ([bioRxiv](https://www.biorxiv.org/content/early/2018/08/09/374439))
 - A.M. Saxe, J.L. McClelland, S. Ganguli. "A mathematical theory of semantic development in deep neural networks". *PNAS*. (2019). ([arXiv](https://arXiv.org/abs/1810.10531)). ([PNAS](https://www.pnas.org/content/early/2019/05/16/1820226116))
 - D.V. Raman, A.P. Rotondo, T. O’Leary. "Fundamental bounds on learning performance in neural circuits". *PNAS*. (2019). ([PNAS](https://www.pnas.org/content/116/21/10537))
+- R. C. Wilson, A. Shenhav, M. Straccia, J.D. Cohen. "The Eighty Five Percent Rule for optimal learning". *Nat. Commun.* (2019). ([Nat.Commun.](https://www.nature.com/articles/s41467-019-12552-4))
 
 ### Few shot Learning
 - A. Cortese, B.D. Martino, M. Kawato. "The neural and cognitive architecture for learning from a small sample".  *Curr. Opin. Neurobiol.* **55**, 133–141 (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0959438818301077))
 
 ### A Critique of Pure Learning
-- A. Zador. "A Critique of Pure Learning: What Artificial Neural Networks can Learn from Animal Brains". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/582643v1))
+- A. Zador. "A Critique of Pure Learning: What Artificial Neural Networks can Learn from Animal Brains". *Nat. Commun.*(2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/582643v1)). ([Nat. Commun.](https://www.nature.com/articles/s41467-019-11786-6))
 
 ## Brain Decoding & Brain-machine interface
 - E. Matsuo, I. Kobayashi, S. Nishimoto, S. Nishida, H. Asoh. "Generating Natural Language Descriptions for Semantic Representations of Human Brain Activity". *ACL SRW.* (2016). ([ACL Anthology](https://aclanthology.info/papers/P16-3004/p16-3004))
