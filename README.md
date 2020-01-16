@@ -148,6 +148,7 @@ Also see the papers associated with [PredNet](#PredNet-Predictive-coding-network
 - N.F. Hardy, V. Goudar, J.L. Romero-Sosa, D.V. Buonomano. "A model of temporal scaling correctly predicts that motor timing improves with speed". *Nat. Commun.* **9** (2018). ([Nat. Commun.](https://www.nature.com/articles/s41467-018-07161-6))
 - J. Wang, D. Narain, E.A. Hosseini, M. Jazayeri. "Flexible timing by temporal scaling of cortical responses". *Nat. Neurosci.* **21** 102–110(2018). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-017-0028-6))
 - W. Roseboom, Z. Fountas, K. Nikiforou, D. Bhowmik, M. Shanahan, A. K. Seth. "Activity in perceptual classification networks as a basis for human subjective time perception". *Nat. Commun.* **10** (2019). ([Nat. Commun.](https://www.nature.com/articles/s41467-018-08194-7))
+- B. Deverett, et al. "Interval timing in deep reinforcement learning agents". *NeurIPS 2019*. (2019). ([arXiv](https://arxiv.org/abs/1905.13469v2))
 - Z. Bi, C. Zhou. "Time representation in neural network models trained to perform interval timing tasks". (2019). ([arXiv](https://arxiv.org/abs/1910.05546)).
 
 ### Short-term memory task
@@ -190,6 +191,7 @@ I haven't been able to completely survey papers in this field.
 - J. X. Wang, et al. "Prefrontal cortex as a meta-reinforcement learning system". *Nat. Neurosci.* (2018). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-018-0147-8)), ([bioRxiv](https://www.biorxiv.org/content/10.1101/295964v2)),  ([blog](https://deepmind.com/blog/prefrontal-cortex-meta-reinforcement-learning-system/))
 - M. Botvinick. et al. "Reinforcement Learning, Fast and Slow". *Trends. Cogn. Sci.* (2019). ([Trends. Cogn. Sci.](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-66131930061-0))
 - E.O. Neftci, B.B. Averbeck. "Reinforcement learning in artificial and biological systems". *Nat. Mach. Intell.* (2019). ([Nat. Mach. Intell.](https://www.nature.com/articles/s42256-019-0025-4))
+- W. Dabney, Z. Kurth-Nelson, N. Uchida, C.K. Starkweather, D. Hassabis, R. Munos, & M. Botvinick. "A distributional code for value in dopamine-based reinforcement learning". *Nature*. (2020). ([Nature](https://www.nature.com/articles/s41586-019-1924-6 )). ([blog](https://deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI))
 
 ## Learning and development
 
