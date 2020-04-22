@@ -14,7 +14,9 @@ I have collected the papers of **Artificial Neural Networks** which related to *
 - J.S. Bowers. "Parallel Distributed Processing Theory in the Age of Deep Networks". *Trends. Cogn. Sci.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1364661317302164?via%3Dihub))
 - R.M. Cichy, D. Kaiser. "Deep Neural Networks as Scientific Models". *Trends. Cogn. Sci.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1364661319300348?via%3Dihub))
 - S. Musall, A.E. Urai, D. Sussillo, A.K. Churchland. "Harnessing behavioral diversity to understand neural computations for cognition". *Curr. Opin. Neurobiol.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0959438819300285))
-- B.A. Richards, T.P. Lillicrap, et al., "A deep learning framework for neuroscience". *Nat. Neurosci.* (2019). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-019-0520-2))
+- B.A. Richards, T.P. Lillicrap, et al. "A deep learning framework for neuroscience". *Nat. Neurosci.* (2019). ([Nat. Neurosci.](https://www.nature.com/articles/s41593-019-0520-2))
+- U. Hasson, S.A. Nastase, A. Goldstein. "Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks". *Neuron*. (2020). ([Neuron](https://www.cell.com/neuron/fulltext/S0896-62731931044-X))
+- A. Saxe, S. Nelli, C. Summerfield. "If deep learning is the answer, then what is the question?". (2020). ([arXiv](https://arxiv.org/abs/2004.07580))
 
 #### Issue
 - T.P. Lillicrap, K.P. Kording. "What does it mean to understand a neural network?". (2019). ([arXiv](https://arxiv.org/abs/1907.06374))
@@ -86,6 +88,7 @@ Understanding the neural representation of the brain is difficult. Neural networ
 - I. Fruend. "Simple, biologically informed models, but not convolutional neural networks describe target detection in naturalistic images". *bioRxiv* (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/578633v1))
 - A. Doerig, et al. "Capsule Networks but not Classic CNNs Explain Global Visual Processing". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/747394v1))
 - A.S. Benjamin, et al. "Hue tuning curves in V4 change with visual context". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/780478v1))
+- S. Baek, M. Song, J. Jang, et al. "Spontaneous generation of face recognition in untrained deep neural networks". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/857466v1))
 
 #### Recurrent networks for object recognition
 - C. J. Spoerer, P. McClure, N. Kriegeskorte. "Recurrent Convolutional Neural Networks: A Better Model of Biological Object Recognition". *Front. Psychol.* (2017). ([Front. Psychol](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01551/full))
@@ -108,7 +111,7 @@ Also see the papers associated with [PredNet](#PredNet-Predictive-coding-network
 - D. George, et al. "A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs". *Science* (2017). ([Science](http://science.sciencemag.org/content/358/6368/eaag2612.full), [GitHub](https://github.com/vicariousinc/science_rcn))
 
 #### Weight shared ResNet as RNN for object recognition
-- Q. Liao, T. Poggio. "Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex". ([arXiv](https://arXiv.org/abs/1604.03640))
+- Q. Liao, T. Poggio. "Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex". (2016). ([arXiv](https://arXiv.org/abs/1604.03640))
 
 #### Generating visual super stimuli
 - J. Ukita, T. Yoshida, K. Ohki. "Characterisation of nonlinear receptive fields of visual neurons by convolutional neural network". *Sci.Rep.* (2019). ([Sci.Rep.](https://www.nature.com/articles/s41598-019-40535-4))
@@ -129,10 +132,11 @@ Also see the papers associated with [PredNet](#PredNet-Predictive-coding-network
 - J.A. Michaels, et al. "A neural network model of flexible grasp movement generation". (2019). ([bioRxiv](https://www.biorxiv.org/content/10.1101/742189v1))
 - J. Merel, M. Botvinick, G. Wayne. "Hierarchical motor control in mammals and machines". *Nat. Commun.* (2019). ([Nat.Commun.](https://www.nature.com/articles/s41467-019-13239-6))
 
-### Spatial coding (Place cells, Grid cells)
+### Spatial coding (Place cells, Grid cells, Head direction cells)
 - C. Cueva, X. Wei. "Emergence of grid-like representations by training recurrent neural networks to perform spatial localization". *ICLR.* (2018). ([arXiv](https://arXiv.org/abs/1803.07770))
 - A. Banino, et al. "Vector-based navigation using grid-like representations in artificial agents". *Nature.* **557**(7705), 429–433 (2018). ([pdf](https://deepmind.com/documents/201/Vector-based%20Navigation%20using%20Grid-like%20Representations%20in%20Artificial%20Agents.pdf), [GitHub](https://github.com/deepmind/grid-cells))
 - J.C.R. Whittington. et al. "Generalisation of structural knowledge in the hippocampal-entorhinal system".  *NIPS.* (2018). ([arXiv](https://arxiv.org/abs/1805.09042))
+- C.J. Cueva, P.Y. Wang, M. Chin, X. Wei. "Emergence of functional and structural properties of the head direction system by optimization of recurrent neural networks". (2020). ([arXiv](https://arxiv.org/abs/1912.10189))
 
 ### Rodent barrel cortex
 - C. Zhuang, J. Kubilius, M. Hartmann, D. Yamins. "Toward Goal-Driven Neural Network Models for the Rodent Whisker-Trigeminal System". *NIPS.* (2017). ([arXiv](https://arxiv.org/abs/1706.07555))
@@ -169,11 +173,11 @@ Also see the papers associated with [PredNet](#PredNet-Predictive-coding-network
 - D. Hassabis, D. Kumaran, C. Summerfield, M. Botvinick. "Neuroscience-Inspired Artificial Intelligence". *Neuron.* **95**(2), 245-258 (2017).
 ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0896627317305093))
 
-### PredNet (Predictive coding network)
+### PredNet (Deep predictive coding network)
 - W. Lotter, G. Kreiman, D. Cox. "Deep predictive coding networks for video prediction and unsupervised learning". *ICLR.* (2017). ([arXiv](https://arXiv.org/abs/1605.08104), [GitHub](https://coxlab.github.io/prednet/))
-- W. Lotter, G. Kreiman, D. Cox. "A neural network trained to predict future video frames mimics critical properties of biological neuronal responses and perception". (2018). ([arXiv](https://arXiv.org/abs/1805.10734))  
 - E. Watanabe, A. Kitaoka, K. Sakamoto, M. Yasugi, K. Tanaka. "Illusory Motion Reproduced by Deep Neural Networks Trained for Prediction". *Front. Psychol.* (2018). ([Front. Psychol.](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00345/full))
 - M. Fonseca. "Unsupervised predictive coding models may explain visual brain representation". (2019). ([arXiv](https://arxiv.org/abs/1907.00441), [GitHub](https://github.com/thefonseca/algonauts))
+- W. Lotter, G. Kreiman, D. Cox. "A neural network trained to predict future video frames mimics critical properties of biological neuronal responses and perception". *Nat. Machine Intelligence*. (2020). ([arXiv](https://arXiv.org/abs/1805.10734), [Nat. Machine Intelligence](https://www.nature.com/articles/s42256-020-0170-9))  
 
 #### subLSTM
 - R. Costa, Y. Assael, B. Shillingford, N. Freitas, T. Vogels. "Cortical microcircuits as gated-recurrent neural networks". *NIPS.* (2017). ([arXiv](https://arXiv.org/abs/1711.02448))
@@ -199,6 +203,7 @@ I haven't been able to completely survey papers in this field.
 #### Survey
 - J. Whittington, R. Bogacz. "Theories of Error Back-Propagation in the Brain". *Trends. Cogn. Sci.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S1364661319300129?via%3Dihub))
 - T.P. Lillicrap, A.Santoro. "Backpropagation through time and the brain". *Curr. Opin. Neurobiol.* (2019). ([sciencedirect](https://www.sciencedirect.com/science/article/pii/S0959438818302009))
+- T.P. Lillicrap, A. Santoro, L. Marris, et al. "Backpropagation and the brain". *Nat. Rev. Neurosci*. (2020).  ([Nat. Rev. Neurosci.](https://www.nature.com/articles/s41583-020-0277-3))
 
 #### Equilibrium Propagation
 - Y. Bengio, D. Lee, J. Bornschein, T. Mesnard, Z. Lin. "Towards Biologically Plausible Deep Learning". (2015). ([arXiv](https://arXiv.org/abs/1502.04156))
